@@ -41,6 +41,9 @@
             }).addTo(map);
 
             var baseUrl = 'https://raw.githubusercontent.com/inzeyMcK/The-Mountain-Goats-Atlas/main/shapefiles/';
+            
+            var pointLayers = [];
+
             var fileNames = [
                 'ctr.geojson', 
                 'sta.geojson', 
@@ -81,15 +84,20 @@
                         return response.json();
                     })
                     .then(function(data) {
-                        L.geoJSON(data, {
-                            pointToLayer: function(feature, latlng) {
-                                return L.circleMarker(latlng, {
+                        return response.json();
+                    })
+                    .then(function(data) {
+                        var newLayer = L.geoJSON(data, {
+                            pointToLayer; function(feature, latlng) {
+                                var marker = L.circleMarker(latlng, {
                                     radius: 6,
                                     fillColor: color,
                                     color: color,
                                     weight: 1,
                                     fillOpacity: 0.8
                                 });
+                                pointLayers.push(marker);
+                                return marker;
                             },
                             style: function(feature) {
                                 return {
@@ -104,6 +112,10 @@
                                 layer.bindPopup(name);
                             }
                         }).addTo(map);
+
+                        pointLayers.forEach(function(layer) {
+                            layer.bringToFront();
+                        });
                     })
                     .catch(function(error) {
                         console.log('Failed to load ' + fileName + ':', error);
