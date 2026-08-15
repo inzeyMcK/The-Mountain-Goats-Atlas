@@ -24,7 +24,25 @@
 				"Neighborhood (incl. boroughs)": " ",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Color in Your Cheeks",
+						"album": "All Hail West Texas",
+						"albums": [
+							"All Hail West Texas"
+						],
+						"lyric": "\"And they came from Zimbabwe, or from Soviet Georgia / East Saint Louis, or from Paris, or they lived across the street\""
+					},
+					{
+						"title": "Clean Slate",
+						"album": "Jenny from Thebes",
+						"albums": [
+							"Jenny from Thebes"
+						],
+						"lyric": "\"One from East St. Louis with a scar beneath his eye\""
+					}
+				]
 			}
 		},
 		{
@@ -50,7 +68,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Weekend in Western Illinois",
+						"album": "Full Force Galesburg",
+						"albums": [
+							"Full Force Galesburg"
+						],
+						"lyric": "\"And we love these dogs that roll on the lawns here in Galesburg / Because they seem to know something nobody else knows\""
+					}
+				]
 			}
 		},
 		{
@@ -76,7 +104,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Alpha Omega",
+						"album": "Our Salvation Is in Hand",
+						"albums": [
+							"Our Salvation Is in Hand"
+						],
+						"lyric": "\"I had boiled peanuts for breakfast from Cairo, Georgia\""
+					}
+				]
 			}
 		},
 		{
@@ -102,7 +140,33 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Move (Chicago 196X)",
+						"album": "Taboo VI: The Homecoming",
+						"albums": [
+							"Taboo VI: The Homecoming"
+						],
+						"lyric": ""
+					},
+					{
+						"title": "Snakeheads",
+						"album": "Palmcorder Yajna EP",
+						"albums": [
+							"Palmcorder Yajna EP"
+						],
+						"lyric": "\"Me and Lee Chong from Chicago in a U-Haul\""
+					},
+					{
+						"title": "We Do It Different on the West Coast",
+						"album": "Goths",
+						"albums": [
+							"Goths"
+						],
+						"lyric": "\"I heard some good things from sone friends about Chicago / I gotta see with my own eyes about Chicago\""
+					}
+				]
 			}
 		},
 		{
@@ -128,7 +192,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "The Alphonse Mambo",
+						"album": "The Coroner's Gambit",
+						"albums": [
+							"The Coroner's Gambit"
+						],
+						"lyric": "\"And it's gonna be just you and me today / Waiting for the other shoe to drop in Tampa Bay\""
+					}
+				]
 			}
 		},
 		{
@@ -154,7 +228,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Jaipur",
+						"album": "The Coroner's Gambit",
+						"albums": [
+							"The Coroner's Gambit"
+						],
+						"lyric": "\"I am coming to Atlanta again\""
+					}
+				]
 			}
 		},
 		{
@@ -180,7 +264,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Going to Kirby Sigston",
+						"album": "Ghana",
+						"albums": [
+							"Ghana"
+						],
+						"lyric": "[title]"
+					}
+				]
 			}
 		},
 		{
@@ -206,7 +300,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Andrew Eldritch is Moving Back to Leeds",
+						"album": "Goths",
+						"albums": [
+							"Goths"
+						],
+						"lyric": "\"Nobody ever gets away / Even the best of us come back someday / To the unmarked rooms where the dry dust breeds / Andrew Eldritch is moving back to Leeds\""
+					}
+				]
 			}
 		},
 		{
@@ -232,7 +336,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "The Lady from Shanghai",
+						"album": "Songs for Petronius",
+						"albums": [
+							"Songs for Petronius"
+						],
+						"lyric": "[title]"
+					}
+				]
 			}
 		},
 		{
@@ -258,7 +372,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Going to Bristol",
+						"album": "Zopilote Machine",
+						"albums": [
+							"Zopilote Machine"
+						],
+						"lyric": "\"I knew you were leaving / I knew you were going to Bristol\""
+					}
+				]
 			}
 		},
 		{
@@ -284,7 +408,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": "https://datahub.io/core/geo-countries#resource-countries"
+				"Source": "https://datahub.io/core/geo-countries#resource-countries",
+				"songs": [
+					{
+						"title": "Earth Air Water Trees",
+						"album": "Tropical Depression",
+						"albums": [
+							"Tropical Depression"
+						],
+						"lyric": "\"And the light was bright and clear and cold / Over eastern Montreal\""
+					}
+				]
 			}
 		},
 		{
@@ -310,7 +444,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Going to Santiago",
+						"album": "Transmissions to Horace",
+						"albums": [
+							"Transmissions to Horace"
+						],
+						"lyric": "[title]"
+					}
+				]
 			}
 		},
 		{
@@ -336,7 +480,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "They Are Stone Swallowers",
+						"album": "Get Lonely (Japanese release)",
+						"albums": [
+							"Get Lonely (Japanese release)"
+						],
+						"lyric": "\"You were headed down to Salzburg for the night / All my hair was turning white\""
+					}
+				]
 			}
 		},
 		{
@@ -350,7 +504,7 @@
 			},
 			"properties": {
 				"locationID": "cty014",
-				"Location/feature name (incl. historical names)": "Bogotá",
+				"Location/feature name (incl. historical names)": "Bogot\u00e1",
 				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
@@ -358,11 +512,21 @@
 				"Region": "",
 				"State/Province": "",
 				"County": "",
-				"City": "Bogotá",
+				"City": "Bogot\u00e1",
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": "https://datahub.io/core/geo-countries#resource-countries"
+				"Source": "https://datahub.io/core/geo-countries#resource-countries",
+				"songs": [
+					{
+						"title": "Going to Bogot\u00e1",
+						"album": "Nothing for Juice",
+						"albums": [
+							"Nothing for Juice"
+						],
+						"lyric": "\"And as the sun rises over Colombia / I know we're done for\""
+					}
+				]
 			}
 		},
 		{
@@ -388,7 +552,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Going to Hungary",
+						"album": "Tropical Depression",
+						"albums": [
+							"Tropical Depression"
+						],
+						"lyric": "\"We touched down in Budapest / Headed straight for the motel room and got undressed\""
+					}
+				]
 			}
 		},
 		{
@@ -414,7 +588,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": "https://datahub.io/core/geo-countries#resource-countries"
+				"Source": "https://datahub.io/core/geo-countries#resource-countries",
+				"songs": [
+					{
+						"title": "Going to Reykjavik",
+						"album": "Nothing for Juice",
+						"albums": [
+							"Nothing for Juice"
+						],
+						"lyric": "[title]"
+					}
+				]
 			}
 		},
 		{
@@ -440,7 +624,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Shirtless in Hamburg",
+						"album": "Marsh Witch Visions EP",
+						"albums": [
+							"Marsh Witch Visions EP"
+						],
+						"lyric": "[title]"
+					}
+				]
 			}
 		},
 		{
@@ -466,7 +660,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Andrew Eldritch is Moving Back to Leeds",
+						"album": "Goths",
+						"albums": [
+							"Goths"
+						],
+						"lyric": "\"And an old army backpack / From the second World War / From a Leipzig second-hand store\""
+					}
+				]
 			}
 		},
 		{
@@ -492,7 +696,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "We Do It Different on the West Coast",
+						"album": "Goths",
+						"albums": [
+							"Goths"
+						],
+						"lyric": "\"It's practically a lifestyle in Berlin\""
+					}
+				]
 			}
 		},
 		{
@@ -518,7 +732,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Spent Gladiator 2",
+						"album": "Transcendental Youth",
+						"albums": [
+							"Transcendental Youth"
+						],
+						"lyric": "\"Like the clock that ticks in Dresden / When the whole town's been destroyed\""
+					}
+				]
 			}
 		},
 		{
@@ -544,7 +768,25 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "The Autopsy Garland",
+						"album": "All Eternals Deck",
+						"albums": [
+							"All Eternals Deck"
+						],
+						"lyric": "\"Look west from London / down to old Hollywood\""
+					},
+					{
+						"title": "Andrew Eldritch is Moving Back to Leeds",
+						"album": "Goths",
+						"albums": [
+							"Goths"
+						],
+						"lyric": "\"Ridin' Lotus Sevens through the London Streets one day\""
+					}
+				]
 			}
 		},
 		{
@@ -570,7 +812,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Color in Your Cheeks",
+						"album": "All Hail West Texas",
+						"albums": [
+							"All Hail West Texas"
+						],
+						"lyric": "\"And they came from Zimbabwe, or from Soviet Georgia / East Saint Louis, or from Paris, or they lived across the street\""
+					}
+				]
 			}
 		},
 		{
@@ -596,7 +848,25 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": "https://datahub.io/core/geo-countries#resource-countries"
+				"Source": "https://datahub.io/core/geo-countries#resource-countries",
+				"songs": [
+					{
+						"title": "Jaipur",
+						"album": "The Coroner's Gambit",
+						"albums": [
+							"The Coroner's Gambit"
+						],
+						"lyric": "\"I am the white sky high over Tripoli\""
+					},
+					{
+						"title": "Commandante",
+						"album": "Devil in the Shortwave",
+						"albums": [
+							"Devil in the Shortwave"
+						],
+						"lyric": "\"And I'm gonna send my belongings all to Tripoli\""
+					}
+				]
 			}
 		},
 		{
@@ -622,7 +892,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": "https://datahub.io/core/geo-countries#resource-countries"
+				"Source": "https://datahub.io/core/geo-countries#resource-countries",
+				"songs": [
+					{
+						"title": "Insurance Fraud #2",
+						"album": "The Coroner's Gambit",
+						"albums": [
+							"The Coroner's Gambit"
+						],
+						"lyric": "\"Dreams of retirement in Cancun / Burning ever brighter\""
+					}
+				]
 			}
 		},
 		{
@@ -648,7 +928,25 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "Also referred to as Salem (biblical) in one song)",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "This Year",
+						"album": "Dilaudid EP",
+						"albums": [
+							"Dilaudid EP"
+						],
+						"lyric": "\"There will be feasting and dancing / In Jerusalem next year / I am going to make it through this year if it kills me\""
+					},
+					{
+						"title": "New Zion",
+						"album": "Heretic Pride",
+						"albums": [
+							"Heretic Pride"
+						],
+						"lyric": "\"High priest of Salem in his robes / Ranting out the coming of the day\""
+					}
+				]
 			}
 		},
 		{
@@ -674,7 +972,25 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Going to Jamaica",
+						"album": "Taking the Dative",
+						"albums": [
+							"Taking the Dative"
+						],
+						"lyric": "\"And what flowers there were around Kingston are blue / I ripped them up from the dry soil and draped them over you\""
+					},
+					{
+						"title": "Song for Dennis Brown",
+						"album": "The Sunset Tree",
+						"albums": [
+							"The Sunset Tree"
+						],
+						"lyric": "\"On the day that Dennis Brown's lung collapsed / Spring rain was misting down on Kingston\""
+					}
+				]
 			}
 		},
 		{
@@ -700,7 +1016,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": "https://datahub.io/core/geo-countries#resource-countries"
+				"Source": "https://datahub.io/core/geo-countries#resource-countries",
+				"songs": [
+					{
+						"title": "Yoga",
+						"album": "Devil in the Shortwave",
+						"albums": [
+							"Devil in the Shortwave"
+						],
+						"lyric": "\"And the lie ran off and hit itself in the alleys / All across Bombay\""
+					}
+				]
 			}
 		},
 		{
@@ -726,7 +1052,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Narakaloka",
+						"album": "New Asian Cinema",
+						"albums": [
+							"New Asian Cinema"
+						],
+						"lyric": "\"I've got cinnamon from Jakarta / For making French toast\""
+					}
+				]
 			}
 		},
 		{
@@ -752,7 +1088,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Jaipur",
+						"album": "The Coroner's Gambit",
+						"albums": [
+							"The Coroner's Gambit"
+						],
+						"lyric": "\"Yeah I came to the gates of the fabled pink city / Hungry and tired and cold\""
+					}
+				]
 			}
 		},
 		{
@@ -778,7 +1124,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": "https://datahub.io/core/geo-countries#resource-countries"
+				"Source": "https://datahub.io/core/geo-countries#resource-countries",
+				"songs": [
+					{
+						"title": "We Were Patriots",
+						"album": "The Coroner's Gambit",
+						"albums": [
+							"The Coroner's Gambit"
+						],
+						"lyric": "\"Clear sky over Calcutta\""
+					}
+				]
 			}
 		},
 		{
@@ -804,7 +1160,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Downtown Seoul",
+						"album": "Sweden",
+						"albums": [
+							"Sweden"
+						],
+						"lyric": "\"I saw you coming across the square / And a white bird broke the dark Korean sky\""
+					}
+				]
 			}
 		},
 		{
@@ -830,7 +1196,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": "https://datahub.io/core/geo-countries#resource-countries"
+				"Source": "https://datahub.io/core/geo-countries#resource-countries",
+				"songs": [
+					{
+						"title": "They Are Stone Swallowers",
+						"album": "Get Lonely (Japanese release)",
+						"albums": [
+							"Get Lonely (Japanese release)"
+						],
+						"lyric": "\"You went away to Stockholm for a week / You came back with some scratch-mark on your cheeks\""
+					}
+				]
 			}
 		},
 		{
@@ -856,7 +1232,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "I Corinthians 13: 8-10",
+						"album": "Nothing for Juice",
+						"albums": [
+							"Nothing for Juice"
+						],
+						"lyric": "\"In Warsaw in 1939 / It was alright just to be alive\""
+					}
+				]
 			}
 		},
 		{
@@ -882,7 +1268,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Evening in Stalingrad",
+						"album": "Full Force Galesburg",
+						"albums": [
+							"Full Force Galesburg"
+						],
+						"lyric": "[title]"
+					}
+				]
 			}
 		},
 		{
@@ -908,7 +1304,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": "https://datahub.io/core/geo-countries#resource-countries"
+				"Source": "https://datahub.io/core/geo-countries#resource-countries",
+				"songs": [
+					{
+						"title": "Going to Utrecht",
+						"album": "Nine Black Poppies",
+						"albums": [
+							"Nine Black Poppies"
+						],
+						"lyric": "[title]"
+					}
+				]
 			}
 		},
 		{
@@ -934,7 +1340,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Sendero Luminoso Verdadero",
+						"album": "Beautiful Rat Sunset",
+						"albums": [
+							"Beautiful Rat Sunset"
+						],
+						"lyric": "\"I remember Lima, I remember the good life\""
+					}
+				]
 			}
 		},
 		{
@@ -948,7 +1364,7 @@
 			},
 			"properties": {
 				"locationID": "cty037",
-				"Location/feature name (incl. historical names)": "Culiacán",
+				"Location/feature name (incl. historical names)": "Culiac\u00e1n",
 				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
@@ -956,11 +1372,21 @@
 				"Region": "",
 				"State/Province": "",
 				"County": "",
-				"City": "Culiacán",
+				"City": "Culiac\u00e1n",
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Ezekiel 7 and the Permanent Efficacy of Grace",
+						"album": "The Life of the World to Come",
+						"albums": [
+							"The Life of the World to Come"
+						],
+						"lyric": "\"I had his arms tied up behind him / We were together all day / Maybe make Culiac\u00e1n by sunset / Try to anyway\""
+					}
+				]
 			}
 		},
 		{
@@ -986,7 +1412,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": "https://datahub.io/core/geo-countries#resource-countries"
+				"Source": "https://datahub.io/core/geo-countries#resource-countries",
+				"songs": [
+					{
+						"title": "Color in Your Cheeks",
+						"album": "All Hail West Texas",
+						"albums": [
+							"All Hail West Texas"
+						],
+						"lyric": "\"He drove in from Mexicali, no worse for wear / Money to burn, time to kill\""
+					}
+				]
 			}
 		},
 		{
@@ -1012,7 +1448,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Last Gasp at Calama",
+						"album": "Songs for Pierre Chuvin",
+						"albums": [
+							"Songs for Pierre Chuvin"
+						],
+						"lyric": "\"They'll do what they were gonna do anyway / But Carthage may rise again one day\""
+					}
+				]
 			}
 		},
 		{
@@ -1038,7 +1484,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Aulon Raid",
+						"album": "Songs for Pierre Chuvin",
+						"albums": [
+							"Songs for Pierre Chuvin"
+						],
+						"lyric": "[title]"
+					}
+				]
 			}
 		},
 		{
@@ -1064,7 +1520,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Last Gasp at Calama",
+						"album": "Songs for Pierre Chuvin",
+						"albums": [
+							"Songs for Pierre Chuvin"
+						],
+						"lyric": "[title]"
+					}
+				]
 			}
 		},
 		{
@@ -1090,7 +1556,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Harlem Roulette",
+						"album": "Transcendental Youth",
+						"albums": [
+							"Transcendental Youth"
+						],
+						"lyric": "\"And four hours north of Portland, a radio fips on / And some no one from the future remembers that you're gone\""
+					}
+				]
 			}
 		},
 		{
@@ -1116,7 +1592,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "California Jam",
+						"album": "Marsh Witch Visions EP",
+						"albums": [
+							"Marsh Witch Visions EP"
+						],
+						"lyric": "\"Me and the ghosts of Birmingham\""
+					}
+				]
 			}
 		},
 		{
@@ -1142,7 +1628,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Passaic, 1975",
+						"album": "In League With Dragons",
+						"albums": [
+							"In League With Dragons"
+						],
+						"lyric": "\"Tonight Passaic, tomorrow the world\""
+					}
+				]
 			}
 		},
 		{
@@ -1168,7 +1664,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "The Only Thing I Know",
+						"album": "Orange Raja, Blood Royal",
+						"albums": [
+							"Orange Raja, Blood Royal"
+						],
+						"lyric": "\"When you came back from Trenton / All the sparkle was gone\""
+					}
+				]
 			}
 		},
 		{
@@ -1194,7 +1700,25 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Star Dusting",
+						"album": "Transmissions to Horace",
+						"albums": [
+							"Transmissions to Horace"
+						],
+						"lyric": "\"Toward the end of our first year in Las Vegas / You looked up from your little corner / And I saw that your face was getting a little brighter\""
+					},
+					{
+						"title": "Fault Lines",
+						"album": "All Hail West Texas",
+						"albums": [
+							"All Hail West Texas"
+						],
+						"lyric": "\"I'll drink to your health and you drink to mine / As we try to make the money we scored out in Vegas hold out for a while\""
+					}
+				]
 			}
 		},
 		{
@@ -1220,7 +1744,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Song for an Old Friend",
+						"album": "The Wheel Method",
+						"albums": [
+							"The Wheel Method"
+						],
+						"lyric": "\"Good old East Rutherford three thousand miles away\""
+					}
+				]
 			}
 		},
 		{
@@ -1246,7 +1780,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Fire Editorial",
+						"album": "Beat the Champ",
+						"albums": [
+							"Beat the Champ"
+						],
+						"lyric": "\"Two blinded in Detroit!\""
+					}
+				]
 			}
 		},
 		{
@@ -1272,7 +1816,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Song for Sasha Banks",
+						"album": "Song for Sasha Banks (single)",
+						"albums": [
+							"Song for Sasha Banks (single)"
+						],
+						"lyric": "\"We don't get cable in Belle Plaine\""
+					}
+				]
 			}
 		},
 		{
@@ -1298,7 +1852,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Going to Bangor",
+						"album": "You and What Army",
+						"albums": [
+							"You and What Army"
+						],
+						"lyric": "[title]"
+					}
+				]
 			}
 		},
 		{
@@ -1324,7 +1888,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Song for Sasha Banks",
+						"album": "Song for Sasha Banks (single)",
+						"albums": [
+							"Song for Sasha Banks (single)"
+						],
+						"lyric": "\"Head off to camp in Boston / Come up through the independents\""
+					}
+				]
 			}
 		},
 		{
@@ -1350,7 +1924,41 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Running Away with what Freud Said",
+						"album": "Taboo VI: The Homecoming",
+						"albums": [
+							"Taboo VI: The Homecoming"
+						],
+						"lyric": ""
+					},
+					{
+						"title": "Damn These Vampires",
+						"album": "All Eternals Deck",
+						"albums": [
+							"All Eternals Deck"
+						],
+						"lyric": "[see comments on fan wiki]"
+					},
+					{
+						"title": "Wear Black",
+						"album": "Goths",
+						"albums": [
+							"Goths"
+						],
+						"lyric": "[see John's comment on 2017-05-25]"
+					},
+					{
+						"title": "Cleaning Crew",
+						"album": "Jenny from Thebes",
+						"albums": [
+							"Jenny from Thebes"
+						],
+						"lyric": "\"If you find yourself in Portland / Ask for me\""
+					}
+				]
 			}
 		},
 		{
@@ -1376,7 +1984,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "For Charles Bronson",
+						"album": "All Eternals Deck",
+						"albums": [
+							"All Eternals Deck"
+						],
+						"lyric": "\"Work until I drop / Drift from place to place / Ehrenfeld, Pennsylvania scratched into my face\""
+					}
+				]
 			}
 		},
 		{
@@ -1402,7 +2020,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Commandante",
+						"album": "Devil in the Shortwave",
+						"albums": [
+							"Devil in the Shortwave"
+						],
+						"lyric": "\"And I am never going back to Cincinnati\""
+					}
+				]
 			}
 		},
 		{
@@ -1428,7 +2056,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Tulsa Imperative",
+						"album": "[unreleased]",
+						"albums": [
+							"[unreleased]"
+						],
+						"lyric": "[title]"
+					}
+				]
 			}
 		},
 		{
@@ -1454,7 +2092,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Moon Over Goldsboro",
+						"album": "Get Lonely",
+						"albums": [
+							"Get Lonely"
+						],
+						"lyric": "[title]"
+					}
+				]
 			}
 		},
 		{
@@ -1480,7 +2128,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Going to Cleveland",
+						"album": "Transmissions to Horace",
+						"albums": [
+							"Transmissions to Horace"
+						],
+						"lyric": "\"And you punish me with pity / But I'm going to Cleveland\""
+					}
+				]
 			}
 		},
 		{
@@ -1506,7 +2164,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Distant Stations",
+						"album": "All Hail West Texas",
+						"albums": [
+							"All Hail West Texas"
+						],
+						"lyric": "\"I sang old songs from nowhere / Los Angeles / Albuquerque\""
+					}
+				]
 			}
 		},
 		{
@@ -1532,7 +2200,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "In Corolla",
+						"album": "Get Lonely",
+						"albums": [
+							"Get Lonely"
+						],
+						"lyric": "[title]"
+					}
+				]
 			}
 		},
 		{
@@ -1558,7 +2236,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "The Legend of Chavo Guerrero",
+						"album": "Beat the Champ",
+						"albums": [
+							"Beat the Champ"
+						],
+						"lyric": "\"Born down in El Paso, where the tumbleweeds blow / To the middleweight champ of all Mexico\""
+					}
+				]
 			}
 		},
 		{
@@ -1584,7 +2272,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "The Ballad of Bull Ramos",
+						"album": "Beat the Champ",
+						"albums": [
+							"Beat the Champ"
+						],
+						"lyric": "\"Sit on my porch in Houston / Let the good times dance across my mind\""
+					}
+				]
 			}
 		},
 		{
@@ -1610,7 +2308,33 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Neon Orange Glimmer Song",
+						"album": "Sweden",
+						"albums": [
+							"Sweden"
+						],
+						"lyric": "\"There's a friend of mine living in Dallas / about a two days' drive from here\""
+					},
+					{
+						"title": "Picture of My Dress",
+						"album": "Getting Into Knives",
+						"albums": [
+							"Getting Into Knives"
+						],
+						"lyric": "\"I'm in the bathroom of a Dallas, Texas Burger King / And Mr. Steven Tyler is on the overhead speaker\""
+					},
+					{
+						"title": "Going to Dallas",
+						"album": "Jenny from Thebes",
+						"albums": [
+							"Jenny from Thebes"
+						],
+						"lyric": "\"Going to Dallas / As far as anybody knows\""
+					}
+				]
 			}
 		},
 		{
@@ -1636,7 +2360,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "The Best Ever Death Metal Band in Denton",
+						"album": "All Hail West Texas",
+						"albums": [
+							"All Hail West Texas"
+						],
+						"lyric": "\"The best ever death metal band out of Denton / Were a couple of guys, who'd been friends since grade school\""
+					}
+				]
 			}
 		},
 		{
@@ -1662,7 +2396,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Source Decay",
+						"album": "All Hail West Texas",
+						"albums": [
+							"All Hail West Texas"
+						],
+						"lyric": "\"Once a week / I make the drive / two hours east / to check the Austin post office box\""
+					}
+				]
 			}
 		},
 		{
@@ -1688,7 +2432,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "It's All Here in Brownsville",
+						"album": "Full Force Galesburg",
+						"albums": [
+							"Full Force Galesburg"
+						],
+						"lyric": "\"Why do we come down to Brownsville / Year after year after year\""
+					}
+				]
 			}
 		},
 		{
@@ -1714,7 +2468,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Noctifer Birmingham",
+						"album": "Fast Forward 2",
+						"albums": [
+							"Fast Forward 2"
+						],
+						"lyric": "\"And then I came down from Harrisburg, Pennsylvania\""
+					}
+				]
 			}
 		},
 		{
@@ -1740,7 +2504,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Trick Mirror",
+						"album": "The Coroner's Gambit",
+						"albums": [
+							"The Coroner's Gambit"
+						],
+						"lyric": "\"And blood will run through the streets of Rome today / And roll across the ocean\""
+					}
+				]
 			}
 		},
 		{
@@ -1766,7 +2540,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Noctifer Birmingham",
+						"album": "Fast Forward 2",
+						"albums": [
+							"Fast Forward 2"
+						],
+						"lyric": "\"I could feel your bones shivering way down there in Birmingham\""
+					}
+				]
 			}
 		},
 		{
@@ -1792,7 +2576,25 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Love Love Love",
+						"album": "The Sunset Tree",
+						"albums": [
+							"The Sunset Tree"
+						],
+						"lyric": "\"And way out in Seattle, young Kurt Cobain / Snuck out to the greenhouse and put a bullet in his brain\""
+					},
+					{
+						"title": "Doc Gooden",
+						"album": "In League With Dragons",
+						"albums": [
+							"In League With Dragons"
+						],
+						"lyric": "\"Wheels down in Seattle / Three years ago in this town\""
+					}
+				]
 			}
 		},
 		{
@@ -1818,7 +2620,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Until I Am Whole",
+						"album": "Transcendental Youth",
+						"albums": [
+							"Transcendental Youth"
+						],
+						"lyric": "\"Sunset on Snohomish / Burn the tree line down\""
+					}
+				]
 			}
 		},
 		{
@@ -1844,7 +2656,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "The Mess Inside",
+						"album": "All Hail West Texas",
+						"albums": [
+							"All Hail West Texas"
+						],
+						"lyric": "\"We took a weekend, drove to Provo / the snow was white and fluffy\"\""
+					}
+				]
 			}
 		},
 		{
@@ -1870,7 +2692,25 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Passaic, 1975",
+						"album": "In League With Dragons",
+						"albums": [
+							"In League With Dragons"
+						],
+						"lyric": "\"And the tech crew in Memphis has a present for me\""
+					},
+					{
+						"title": "Going to Tennessee",
+						"album": "Why You All So Thief?",
+						"albums": [
+							"Why You All So Thief?"
+						],
+						"lyric": "\"And the sun is setting on Memphis\""
+					}
+				]
 			}
 		},
 		{
@@ -1896,7 +2736,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Midland",
+						"album": "All Hail West Texas (2013 re-issue)",
+						"albums": [
+							"All Hail West Texas (2013 re-issue)"
+						],
+						"lyric": "[title]"
+					}
+				]
 			}
 		},
 		{
@@ -1922,7 +2772,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Waco",
+						"album": "All Hail West Texas (2013 re-issue)",
+						"albums": [
+							"All Hail West Texas (2013 re-issue)"
+						],
+						"lyric": "[title]"
+					}
+				]
 			}
 		},
 		{
@@ -1948,7 +2808,25 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Going to Chino",
+						"album": "The Hound Chronicles",
+						"albums": [
+							"The Hound Chronicles"
+						],
+						"lyric": "\"I'd like to say hello / To all our friends from Chino\""
+					},
+					{
+						"title": "Pigs That Ran Straightaway into the Water, Triumph Of",
+						"album": "We Shall All Be Healed",
+						"albums": [
+							"We Shall All Be Healed"
+						],
+						"lyric": "\"I come from Chino where the asphalt sprouts\""
+					}
+				]
 			}
 		},
 		{
@@ -1974,7 +2852,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Cobscook Bay",
+						"album": "Isopanisad Radio Hour",
+						"albums": [
+							"Isopanisad Radio Hour"
+						],
+						"lyric": "\"And Gail used to come around and trash the joint / But she moved off to Dana Point\""
+					}
+				]
 			}
 		},
 		{
@@ -2000,7 +2888,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": "https://datahub.io/core/geo-countries#resource-countries"
+				"Source": "https://datahub.io/core/geo-countries#resource-countries",
+				"songs": [
+					{
+						"title": "Tucson Fog",
+						"album": "Hex of Infinite Binding EP",
+						"albums": [
+							"Hex of Infinite Binding EP"
+						],
+						"lyric": "[title]"
+					}
+				]
 			}
 		},
 		{
@@ -2026,7 +2924,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Pigs That Ran Straightaway into the Water, Triumph Of",
+						"album": "We Shall All Be Healed",
+						"albums": [
+							"We Shall All Be Healed"
+						],
+						"lyric": "\"And even if I have to go to Claremont / Well I guess I'll just have to go to Claremont\""
+					}
+				]
 			}
 		},
 		{
@@ -2052,7 +2960,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Mobile",
+						"album": "Dark in Here",
+						"albums": [
+							"Dark in Here"
+						],
+						"lyric": "\"I'm on a balcony in Mobile, Alabama, waiting for the wind to throw me down\""
+					}
+				]
 			}
 		},
 		{
@@ -2078,7 +2996,17 @@
 				"Neighborhood (incl. boroughs)": " ",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Alabama Nova",
+						"album": "Nothing for Juice",
+						"albums": [
+							"Nothing for Juice"
+						],
+						"lyric": "\"Let me take you down / Let me ease you around Montgomery\""
+					}
+				]
 			}
 		},
 		{
@@ -2104,7 +3032,25 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": "https://datahub.io/core/geo-countries#resource-countries"
+				"Source": "https://datahub.io/core/geo-countries#resource-countries",
+				"songs": [
+					{
+						"title": "Color in Your Cheeks",
+						"album": "All Hail West Texas",
+						"albums": [
+							"All Hail West Texas"
+						],
+						"lyric": "\"She came in on the red-eye to Dallas-Fort Worth / All the way from sunny Taipei\""
+					},
+					{
+						"title": "Clean Slate",
+						"album": "Jenny from Thebes",
+						"albums": [
+							"Jenny from Thebes"
+						],
+						"lyric": "\"Leave home feeling empty, change planes in Taipei\""
+					}
+				]
 			}
 		},
 		{
@@ -2130,7 +3076,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Source Decay",
+						"album": "All Hail West Texas",
+						"albums": [
+							"All Hail West Texas"
+						],
+						"lyric": "\"I remember the train headed south out of Bangkok / Down toward the water\""
+					}
+				]
 			}
 		},
 		{
@@ -2156,7 +3112,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "We Do It Different on the West Coast",
+						"album": "Goths",
+						"albums": [
+							"Goths"
+						],
+						"lyric": "\"I heard they had a problem with some skinheads / At a show in a machine shop in Pomona\""
+					}
+				]
 			}
 		},
 		{
@@ -2182,7 +3148,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "New Star Song",
+						"album": "Beautiful Rat Sunset",
+						"albums": [
+							"Beautiful Rat Sunset"
+						],
+						"lyric": "\"I thought of you up in Canada as the lightning storms lit up / All downtown Redding\""
+					}
+				]
 			}
 		},
 		{
@@ -2208,7 +3184,33 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": "https://datahub.io/core/geo-countries#resource-countries"
+				"Source": "https://datahub.io/core/geo-countries#resource-countries",
+				"songs": [
+					{
+						"title": "Ontario",
+						"album": "Full Force Galesburg",
+						"albums": [
+							"Full Force Galesburg"
+						],
+						"lyric": "[title]"
+					},
+					{
+						"title": "Fire Editorial",
+						"album": "Beat the Champ",
+						"albums": [
+							"Beat the Champ"
+						],
+						"lyric": "\"War in Ontario! Dead before the bell\""
+					},
+					{
+						"title": "Rage of Travers",
+						"album": "Goths",
+						"albums": [
+							"Goths"
+						],
+						"lyric": "\"This used to be the place to go / Still draw pretty good in Ontario\""
+					}
+				]
 			}
 		},
 		{
@@ -2234,7 +3236,17 @@
 				"Neighborhood (incl. boroughs)": " ",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Raja Vocative",
+						"album": "Orange Raja, Blood Royal",
+						"albums": [
+							"Orange Raja, Blood Royal"
+						],
+						"lyric": "\"I could hear you singing / From all the way across the country in Palm Springs\""
+					}
+				]
 			}
 		},
 		{
@@ -2260,7 +3272,41 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Sinaloan Milk Snake Song",
+						"album": "Zopilote Machine",
+						"albums": [
+							"Zopilote Machine"
+						],
+						"lyric": "\"I remember California, I remember Malibu / I remember the states and the names of the cities but I don't remember you\""
+					},
+					{
+						"title": "Teenage World",
+						"album": "Transmissions to Horace",
+						"albums": [
+							"Transmissions to Horace"
+						],
+						"lyric": "\"I'm gonna take this rabbit into Malibu\""
+					},
+					{
+						"title": "Wait for You",
+						"album": "Babylon Springs EP",
+						"albums": [
+							"Babylon Springs EP"
+						],
+						"lyric": "\"When it came time to wait for you / I took the bus to Malibu / Found a caf\u00e9 by the ocean / Watched the sky for signs"
+					},
+					{
+						"title": "Going to Malibu",
+						"album": "Chile de \u00c1rbol",
+						"albums": [
+							"Chile de \u00c1rbol"
+						],
+						"lyric": "[title]"
+					}
+				]
 			}
 		},
 		{
@@ -2286,7 +3332,25 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": "https://datahub.io/core/geo-countries#resource-countries"
+				"Source": "https://datahub.io/core/geo-countries#resource-countries",
+				"songs": [
+					{
+						"title": "Going to Norwalk",
+						"album": "Hot Garden Stomp",
+						"albums": [
+							"Hot Garden Stomp"
+						],
+						"lyric": "[title]"
+					},
+					{
+						"title": "Chino Love Song 1979",
+						"album": "Taking the Dative",
+						"albums": [
+							"Taking the Dative"
+						],
+						"lyric": "\"And it made me remember the sunflower that popped up outside my window one / Morning in Norwalk\""
+					}
+				]
 			}
 		},
 		{
@@ -2312,7 +3376,25 @@
 				"Neighborhood (incl. boroughs)": " ",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "The Young Thousands",
+						"album": "We Shall All Be Healed",
+						"albums": [
+							"We Shall All Be Healed"
+						],
+						"lyric": "\"You drive east from the ocean with both hands tight on the wheel / And you go past Garden Grove as the pleasure index rises\""
+					},
+					{
+						"title": "Home Again Garden Grove",
+						"album": "We Shall All Be Healed",
+						"albums": [
+							"We Shall All Be Healed"
+						],
+						"lyric": "\"Home again / Home again / Garden Grove / Garden Grove\""
+					}
+				]
 			}
 		},
 		{
@@ -2338,7 +3420,41 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": "https://datahub.io/core/geo-countries#resource-countries"
+				"Source": "https://datahub.io/core/geo-countries#resource-countries",
+				"songs": [
+					{
+						"title": "Distant Stations",
+						"album": "All Hail West Texas",
+						"albums": [
+							"All Hail West Texas"
+						],
+						"lyric": "\"I sang old songs from nowhere / Los Angeles / Albuquerque\""
+					},
+					{
+						"title": "Shelved",
+						"album": "Goths",
+						"albums": [
+							"Goths"
+						],
+						"lyric": "\"Don't want to write songs with this clown they set me up with in a Los Angeles rehearsal studio\""
+					},
+					{
+						"title": "Abandoned Flesh",
+						"album": "Goths",
+						"albums": [
+							"Goths"
+						],
+						"lyric": "\"Siouxsie has enough hits to keep the bills paid / Every New Year's in Los Angeles, you can still see Richard Blade\""
+					},
+					{
+						"title": "No More Tears",
+						"album": "Marsh Witch Visions EP",
+						"albums": [
+							"Marsh Witch Visions EP"
+						],
+						"lyric": "\"Insane in a studio in Los Angeles / Rudderless and hungry and high\""
+					}
+				]
 			}
 		},
 		{
@@ -2364,7 +3480,25 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Alpha Sun Hat",
+						"album": "Zopilote Machine",
+						"albums": [
+							"Zopilote Machine"
+						],
+						"lyric": "\"If you're planning your escape, you know I'm all for you / As I watch the sun come up again over Tallahassee, Florida\""
+					},
+					{
+						"title": "Tallahassee",
+						"album": "Tallahassee",
+						"albums": [
+							"Tallahassee"
+						],
+						"lyric": "[title]"
+					}
+				]
 			}
 		},
 		{
@@ -2390,7 +3524,25 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Jam Eater Blues",
+						"album": "Jam Eater Blues",
+						"albums": [
+							"Jam Eater Blues"
+						],
+						"lyric": "\"Life is too short to spend the rest of it down here in Tampa\""
+					},
+					{
+						"title": "First Few Desperate Hours",
+						"album": "Tallahassee",
+						"albums": [
+							"Tallahassee"
+						],
+						"lyric": "\"Bad luck comes in from Tampa\""
+					}
+				]
 			}
 		},
 		{
@@ -2416,7 +3568,25 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Alibi",
+						"album": "Babylon Springs EP",
+						"albums": [
+							"Babylon Springs EP"
+						],
+						"lyric": "\"Moon over West Covina was huge and white / And I was like a patient on a table headed for the light\""
+					},
+					{
+						"title": "The Grey King and the Silver Flame Attunement",
+						"album": "Goths",
+						"albums": [
+							"Goths"
+						],
+						"lyric": "\"In the secret caverns underneath West Covina / Half desperate for peace\""
+					}
+				]
 			}
 		},
 		{
@@ -2442,7 +3612,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Wild Palm City (AKA Within You, Without You)",
+						"album": "Back to the Egg, Asshole",
+						"albums": [
+							"Back to the Egg, Asshole"
+						],
+						"lyric": "[title]"
+					}
+				]
 			}
 		},
 		{
@@ -2468,7 +3648,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Born Ready",
+						"album": "Isopanisad Radio Hour",
+						"albums": [
+							"Isopanisad Radio Hour"
+						],
+						"lyric": "\"I'm going to see you in San Jose / And I'm going to take you out for good\""
+					}
+				]
 			}
 		},
 		{
@@ -2494,7 +3684,17 @@
 				"Neighborhood (incl. boroughs)": " ",
 				"Street address": "",
 				"Notes": "",
-				"Source": "https://datahub.io/core/geo-countries#resource-countries"
+				"Source": "https://datahub.io/core/geo-countries#resource-countries",
+				"songs": [
+					{
+						"title": "Matthew 25:21",
+						"album": "The Life of the World to Come",
+						"albums": [
+							"The Life of the World to Come"
+						],
+						"lyric": "\"I flew in / From Pennsylvania / When I heard the hour was coming fast / And I docked in Santa Barbara\""
+					}
+				]
 			}
 		},
 		{
@@ -2520,7 +3720,25 @@
 				"Neighborhood (incl. boroughs)": " ",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Song for Tura Satana",
+						"album": "Zopilote Machine",
+						"albums": [
+							"Zopilote Machine"
+						],
+						"lyric": "\"And the stardust came down, royal blue / As the San Bernardino sky showered over you\""
+					},
+					{
+						"title": "San Bernardino",
+						"album": "Heretic Pride",
+						"albums": [
+							"Heretic Pride"
+						],
+						"lyric": "\"And the day was bright and fine / And the highway sign said, \"San Bernardino welcomes you\""
+					}
+				]
 			}
 		},
 		{
@@ -2546,7 +3764,17 @@
 				"Neighborhood (incl. boroughs)": " ",
 				"Street address": "",
 				"Notes": "",
-				"Source": "https://datahub.io/core/geo-countries#resource-countries"
+				"Source": "https://datahub.io/core/geo-countries#resource-countries",
+				"songs": [
+					{
+						"title": "We Do It Different on the West Coast",
+						"album": "Goths",
+						"albums": [
+							"Goths"
+						],
+						"lyric": "\"I feel like half my friends have moved to San Francisco\""
+					}
+				]
 			}
 		},
 		{
@@ -2572,7 +3800,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Passaic, 1975",
+						"album": "In League With Dragons",
+						"albums": [
+							"In League With Dragons"
+						],
+						"lyric": "\"Tonight Indianapolis, tomorrow the flood\""
+					}
+				]
 			}
 		},
 		{
@@ -2598,34 +3836,54 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "The Mess Inside",
+						"album": "All Hail West Texas",
+						"albums": [
+							"All Hail West Texas"
+						],
+						"lyric": "\"We went down to New Orleans one weekend in the spring / Looked hard for what we'd lost\""
+					}
+				]
 			}
 		},
 		{
-		    "type": "Feature",
-		    "geometry": {
-		        "type": "Point",
-		        "coordinates": [
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
 					-91.178611,
-		            30.4475
-		        ]
-		    },
-		    "properties": {
-		        "locationID": "cty104",
-		        "Location/feature name (incl. historical names)": "Baton Rouge",
-		        "COMPLETE": "TRUE",
-		        "Geometry type": "point",
-		        "Geography type": "city",
-		        "Country": "USA",
-		        "Region": "",
-		        "State/Province": "Louisiana",
-		        "County": "",
-		        "City": "New Orleans",
-		        "Neighborhood (incl. boroughs)": "",
-		        "Street address": "",
-		        "Notes": "",
-		        "Source": "geohack.toolforge.org"
-		    }
+					30.4475
+				]
+			},
+			"properties": {
+				"locationID": "cty104",
+				"Location/feature name (incl. historical names)": "Baton Rouge",
+				"COMPLETE": "TRUE",
+				"Geometry type": "point",
+				"Geography type": "city",
+				"Country": "USA",
+				"Region": "",
+				"State/Province": "Louisiana",
+				"County": "",
+				"City": "New Orleans",
+				"Neighborhood (incl. boroughs)": "",
+				"Street address": "",
+				"Notes": "",
+				"Source": "geohack.toolforge.org",
+				"songs": [
+					{
+						"title": "Cleaning Crew",
+						"album": "Jenny from Thebes",
+						"albums": [
+							"Jenny from Thebes"
+						],
+						"lyric": "\"Look on every lamppost / From here to Baton Rouge\""
+					}
+				]
+			}
 		}
 	]
 }

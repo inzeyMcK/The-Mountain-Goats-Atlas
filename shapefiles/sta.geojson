@@ -2132,7 +2132,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Stars Fell on Alabama",
+						"album": "Nine Black Poppies",
+						"albums": [
+							"Nine Black Poppies"
+						],
+						"lyric": "\"And the stars fell on Alabama / And your eyes filled up with light\""
+					}
+				]
 			}
 		},
 		{
@@ -29520,7 +29530,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "Crosses the antimeridian (180\u00b0/-180\u00b0 longitude) \u2014 may need splitting for correct Leaflet rendering",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Going to Alaska",
+						"album": "Taboo VI: The Homecoming",
+						"albums": [
+							"Taboo VI: The Homecoming"
+						],
+						"lyric": ""
+					}
+				]
 			}
 		},
 		{
@@ -33130,7 +33150,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Going to Tennessee",
+						"album": "Why You All So Thief?",
+						"albums": [
+							"Why You All So Thief?"
+						],
+						"lyric": "\"I've got a house right on the river / I can see Arkansas from where I am\""
+					}
+				]
 			}
 		},
 		{
@@ -39766,7 +39796,97 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Going to Wisconsin",
+						"album": "The Hound Chronicles",
+						"albums": [
+							"The Hound Chronicles"
+						],
+						"lyric": "\"And you say you need me in California / But no thanks\""
+					},
+					{
+						"title": "Orange Ball of Hate",
+						"album": "Zopilote Machine",
+						"albums": [
+							"Zopilote Machine"
+						],
+						"lyric": "1998-02-06 concert at Cow Haus in Tallahassee, FL: \"This is a song - takes place in California - it was on the first CD - it's about that moment in which you know it's not going to get any better, but you want to prove to somebody exactly how strong you are.\" (source: Mountain Goats fan wiki)"
+					},
+					{
+						"title": "Some Swedish Trees",
+						"album": "Sweden",
+						"albums": [
+							"Sweden"
+						],
+						"lyric": "\"We'd come from California / The air around you was familiar to me now\""
+					},
+					{
+						"title": "California Song",
+						"album": "Sweden",
+						"albums": [
+							"Sweden"
+						],
+						"lyric": "[title]"
+					},
+					{
+						"title": "It's All Here in Brownsville",
+						"album": "Full Force Galesburg",
+						"albums": [
+							"Full Force Galesburg"
+						],
+						"lyric": "\"When the sun sank down into California / I felt your breath on my neck, it was hot and good and pure\""
+					},
+					{
+						"title": "Flight 717: Going to Denmark",
+						"album": "Corkscrewed",
+						"albums": [
+							"Corkscrewed"
+						],
+						"lyric": "\"My mouth is open / So you can stuff the bright red roses in / 'Cause I feel the California sky closing in\""
+					},
+					{
+						"title": "Commandante",
+						"album": "Devil in the Shortwave",
+						"albums": [
+							"Devil in the Shortwave"
+						],
+						"lyric": "\"And I'm gonna ride home to California / With a banjo on my knee\""
+					},
+					{
+						"title": "See America Right",
+						"album": "See America Right (single)",
+						"albums": [
+							"See America Right (single)"
+						],
+						"lyric": "\"If we never make it back to California, I want you to know I love you\""
+					},
+					{
+						"title": "Genesis 3:23",
+						"album": "The Life of the World to Come",
+						"albums": [
+							"The Life of the World to Come"
+						],
+						"lyric": "\"House up in Clearlake / Where I used to live / Picked the lock on the front door / And felt it give\""
+					},
+					{
+						"title": "Birth of Serpents",
+						"album": "All Eternals Deck",
+						"albums": [
+							"All Eternals Deck"
+						],
+						"lyric": "\"From the California coastline / To the Iowa corn\""
+					},
+					{
+						"title": "Song for Sasha Banks",
+						"album": "Song for Sasha Banks (single)",
+						"albums": [
+							"Song for Sasha Banks (single)"
+						],
+						"lyric": "\"California, Minnesota, Massachusetts / They can tell I'm coming up by the expression on my face / I'm gonna make a lot of money / Everyone I love is gonna have their own safe place\""
+					}
+				]
 			}
 		},
 		{
@@ -40712,7 +40832,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Evening in Stalingrad",
+						"album": "Full Force Galesburg",
+						"albums": [
+							"Full Force Galesburg"
+						],
+						"lyric": "\"We boxed with our shadows like a couple of kangaroos / And then we went down to Chechnya for the weekend\""
+					}
+				]
 			}
 		},
 		{
@@ -50332,7 +50462,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HHVVHX"
+				"Source": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HHVVHX",
+				"songs": [
+					{
+						"title": "Nine Black Poppies",
+						"album": "Nine Black Poppies",
+						"albums": [
+							"Nine Black Poppies"
+						],
+						"lyric": "\"And a package came for you today from the Hunan province\""
+					}
+				]
 			}
 		},
 		{
@@ -53254,7 +53394,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Fire Editorial",
+						"album": "Beat the Champ",
+						"albums": [
+							"Beat the Champ"
+						],
+						"lyric": "\"Down Indiana way / Make 'em check their guns\""
+					}
+				]
 			}
 		},
 		{
@@ -56772,7 +56922,25 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": "https://datahub.io/core/geo-countries#resource-countries"
+				"Source": "https://datahub.io/core/geo-countries#resource-countries",
+				"songs": [
+					{
+						"title": "Million",
+						"album": "Nothing for Juice",
+						"albums": [
+							"Nothing for Juice"
+						],
+						"lyric": "\"The moon is high over Iowa at night / And the moon is high over Iowa at night\""
+					},
+					{
+						"title": "Birth of Serpents",
+						"album": "All Eternals Deck",
+						"albums": [
+							"All Eternals Deck"
+						],
+						"lyric": "\"From the Oregon corners / To the Iowa corn\""
+					}
+				]
 			}
 		},
 		{
@@ -58086,7 +58254,25 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Going to Kansas",
+						"album": "The Hound Chronicles",
+						"albums": [
+							"The Hound Chronicles"
+						],
+						"lyric": "[title]"
+					},
+					{
+						"title": "Psalms 40:2",
+						"album": "The Life of the World to Come",
+						"albums": [
+							"The Life of the World to Come"
+						],
+						"lyric": "\"Head down toward Kansas / We will get there when we get there, don\u2019t you worry\""
+					}
+				]
 			}
 		},
 		{
@@ -61956,7 +62142,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Going to Maine",
+						"album": "HardcoreAcoustic",
+						"albums": [
+							"HardcoreAcoustic"
+						],
+						"lyric": "\"Let's go to Maine out on the East Coast / Let's go to Maine right now\""
+					}
+				]
 			}
 		},
 		{
@@ -67402,7 +67598,25 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Minnesota",
+						"album": "Full Force Galesburg",
+						"albums": [
+							"Full Force Galesburg"
+						],
+						"lyric": "[title]"
+					},
+					{
+						"title": "The Autopsy Garland",
+						"album": "All Eternals Deck",
+						"albums": [
+							"All Eternals Deck"
+						],
+						"lyric": "\"Look west from London to the emerald city / Remember Minnesota\""
+					}
+				]
 			}
 		},
 		{
@@ -71368,7 +71582,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Psalms 40:2",
+						"album": "The Life of the World to Come",
+						"albums": [
+							"The Life of the World to Come"
+						],
+						"lyric": "\"Pulled off the highway in Missouri / And lo, our hearts were heavy laden\""
+					}
+				]
 			}
 		},
 		{
@@ -75758,7 +75982,25 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Night Light",
+						"album": "Transcendental Youth",
+						"albums": [
+							"Transcendental Youth"
+						],
+						"lyric": "\"Jenny calls from Montana / She's only passing through\""
+					},
+					{
+						"title": "Going to Dallas",
+						"album": "Jenny from Thebes",
+						"albums": [
+							"Jenny from Thebes"
+						],
+						"lyric": "\"Going to Dallas / As far as anybody knows / Maybe Montana\""
+					}
+				]
 			}
 		},
 		{
@@ -77888,7 +78130,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Song for John Davis",
+						"album": "Songs About Fire",
+						"albums": [
+							"Songs About Fire"
+						],
+						"lyric": "\"And the snow came down on New Hampshire today\""
+					}
+				]
 			}
 		},
 		{
@@ -79386,7 +79638,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Raja Vocative",
+						"album": "Orange Raja, Blood Royal",
+						"albums": [
+							"Orange Raja, Blood Royal"
+						],
+						"lyric": "\"Your laughter tore through the New Jersey night\""
+					}
+				]
 			}
 		},
 		{
@@ -80352,7 +80614,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Picture of My Dress",
+						"album": "Getting Into Knives",
+						"albums": [
+							"Getting Into Knives"
+						],
+						"lyric": "\"Here at a truck stop in New Mexico / Just before dawn\""
+					}
+				]
 			}
 		},
 		{
@@ -98784,7 +99056,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Nova Scotia",
+						"album": "Letter from Belgium EP",
+						"albums": [
+							"Letter from Belgium EP"
+						],
+						"lyric": "\"Coming in off Nova Scotia / Yellow sun in the blue sky\""
+					}
+				]
 			}
 		},
 		{
@@ -101098,7 +101380,25 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Born Ready",
+						"album": "Isopanisad Radio Hour",
+						"albums": [
+							"Isopanisad Radio Hour"
+						],
+						"lyric": "\"And there's snow on the ground in Ohio today / There's no snow here\""
+					},
+					{
+						"title": "We Do It Different on the West Coast",
+						"album": "Goths",
+						"albums": [
+							"Goths"
+						],
+						"lyric": "\"There's probably some pockets in Ohio / Almost always something happening in Ohio\""
+					}
+				]
 			}
 		},
 		{
@@ -104996,7 +105296,25 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Going to Scotland",
+						"album": "Nothing for Juice",
+						"albums": [
+							"Nothing for Juice"
+						],
+						"lyric": "\"We watched the sun go down on Scotland / We were glad that we'd left Oklahoma behind\""
+					},
+					{
+						"title": "Pink and Blue",
+						"album": "All Hail West Texas",
+						"albums": [
+							"All Hail West Texas"
+						],
+						"lyric": "\"Wind out of Oklahoma this morning smelled like blood and smoke\""
+					}
+				]
 			}
 		},
 		{
@@ -108490,7 +108808,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Birth of Serpents",
+						"album": "All Eternals Deck",
+						"albums": [
+							"All Eternals Deck"
+						],
+						"lyric": "\"From the Oregon corners / To the Iowa corn\""
+					}
+				]
 			}
 		},
 		{
@@ -110356,7 +110684,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Matthew 25:21",
+						"album": "The Life of the World to Come",
+						"albums": [
+							"The Life of the World to Come"
+						],
+						"lyric": "\"I flew in / From Pennsylvania / When I heard the hour was coming fast / And I docked in Santa Barbara\""
+					}
+				]
 			}
 		},
 		{
@@ -119784,7 +120122,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Song for Cleomenes",
+						"album": "Beautiful Rat Sunset",
+						"albums": [
+							"Beautiful Rat Sunset"
+						],
+						"lyric": "\"He was the governor of Agrigentum, which we now know as Sicily\""
+					}
+				]
 			}
 		},
 		{
@@ -127216,7 +127564,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": "https://public-nps.opendata.arcgis.com/datasets/nps-boundary-1/explore?location=35.844020%2C-101.298054%2C4.96"
+				"Source": "https://public-nps.opendata.arcgis.com/datasets/nps-boundary-1/explore?location=35.844020%2C-101.298054%2C4.96",
+				"songs": [
+					{
+						"title": "Quetzalcoatl is Born",
+						"album": "Zopilote Machine",
+						"albums": [
+							"Zopilote Machine"
+						],
+						"lyric": "\"It's a cold night in Sonora / And the stars are out in full force\""
+					}
+				]
 			}
 		},
 		{
@@ -139814,7 +140172,25 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Absolute Lithops Effect",
+						"album": "All Hail West Texas",
+						"albums": [
+							"All Hail West Texas"
+						],
+						"lyric": "\"The big trucks come up the highway / And the big wheels rattle my windows / And night, night comes to Texas\""
+					},
+					{
+						"title": "Southwestern Territory",
+						"album": "Beat the Champ",
+						"albums": [
+							"Beat the Champ"
+						],
+						"lyric": "\"Flew home from Texas last night / Slept on the flight\""
+					}
+				]
 			}
 		},
 		{
@@ -140348,7 +140724,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Fresh Cherries in Trinidad",
+						"album": "Hot Garden Stomp",
+						"albums": [
+							"Hot Garden Stomp"
+						],
+						"lyric": "[title]"
+					}
+				]
 			}
 		},
 		{
@@ -143674,7 +144060,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
-				"Source": ""
+				"Source": "",
+				"songs": [
+					{
+						"title": "Going to Wisconsin",
+						"album": "The Hound Chronicles",
+						"albums": [
+							"The Hound Chronicles"
+						],
+						"lyric": "\"Let's go, let's go / Wisconsin Bound\""
+					}
+				]
 			}
 		},
 		{
@@ -146420,7 +146816,17 @@
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "Simplified from Census TIGER boundary (13,982 -> 701 vertices) via mapshaper -simplify 5% -clean",
-				"Source": "US Census Bureau TIGER/Line"
+				"Source": "US Census Bureau TIGER/Line",
+				"songs": [
+					{
+						"title": "From the Nebraska Plant",
+						"album": "Jenny from Thebes",
+						"albums": [
+							"Jenny from Thebes"
+						],
+						"lyric": "[title]"
+					}
+				]
 			}
 		}
 	]
