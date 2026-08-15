@@ -84,9 +84,6 @@
                         return response.json();
                     })
                     .then(function(data) {
-                        return response.json();
-                    })
-                    .then(function(data) {
                         var newLayer = L.geoJSON(data, {
                             pointToLayer: function(feature, latlng) {
                                 var marker = L.circleMarker(latlng, {
