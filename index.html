@@ -106,7 +106,21 @@
                             },
                             onEachFeature: function(feature, layer) {
                                 var name = feature.properties['Location/feature name (incl. historical names)'];
-                                layer.bindPopup(name);
+                                var city = feature.properties['City'];
+                                var state = feature.properties['State/Province'];
+                                var country = feature.properties['Country'];
+
+                                var locationParts = [city, state, country].filter(function(part) {
+                                    return part && part.trim() !== '';
+                                });
+                                var locationLine = locationParts.join(', ');
+
+                                var popupContent = '<strong>' + name + '</strong>';
+                                if (locationLine) {
+                                    popupContent += '<br>' + locationLine;
+                                }
+
+                                layer.bindPopup(popupContent);
                             }
                         }).addTo(map);
 
