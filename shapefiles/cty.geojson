@@ -2606,13 +2606,13 @@
 		    "geometry": {
 		        "type": "Point",
 		        "coordinates": [
-		            30.4475,
-		            -91.178611
+					-91.178611,
+		            30.4475
 		        ]
 		    },
 		    "properties": {
 		        "locationID": "cty104",
-		        "Location/feature name (incl. historical names)": "New Orleans",
+		        "Location/feature name (incl. historical names)": "Baton Rouge",
 		        "COMPLETE": "TRUE",
 		        "Geometry type": "point",
 		        "Geography type": "city",
