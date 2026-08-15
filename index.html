@@ -88,7 +88,7 @@
                     })
                     .then(function(data) {
                         var newLayer = L.geoJSON(data, {
-                            pointToLayer; function(feature, latlng) {
+                            pointToLayer: function(feature, latlng) {
                                 var marker = L.circleMarker(latlng, {
                                     radius: 6,
                                     fillColor: color,
