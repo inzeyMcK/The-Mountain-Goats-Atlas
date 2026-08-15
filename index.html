@@ -42,7 +42,32 @@
 
             var baseUrl = 'https://raw.githubusercontent.com/inzeyMcK/The-Mountain-Goats-Atlas/main/shapefiles/';
             
-            var pointLayers = [];
+            var layersByFile = {}; // Remembers each file's layer, once it's loaded
+
+            // Order matters: listed BOTTOM to TOP. The layer called bringToFront() last will be on the top - visually and will get click priority.
+            var zOrder = [
+                'ctr.geojson', // countries - broadest, bottom
+                'rgn.geojson', // regions, may span across states
+                'npg.geojson',
+                'sta.geojson',
+                'cou.geojson',
+                'nhd.geojson', // more specific polygon
+                'bdr.geojson', // start of lines
+                'nli.geojson',
+                'rte.geojson',
+                'str.geojson',
+                'npt.geojson', // start of points - most specific overall, should be top layers
+                'cty.geojson',
+                'adr.geojson'
+            ];
+
+            function reassertStackingOrder() {
+                zOrder.forEach(function(fileName) {
+                    if (layersByFile[fileName]) {
+                        layersByFile[fileName].bringToFront();
+                    }
+                })
+            }
 
             var fileNames = [
                 'ctr.geojson', 
@@ -93,7 +118,6 @@
                                     weight: 1,
                                     fillOpacity: 0.8
                                 });
-                                pointLayers.push(marker);
                                 return marker;
                             },
                             style: function(feature) {
@@ -120,13 +144,29 @@
                                     popupContent += '<br>' + locationLine;
                                 }
 
+                                // Build one block per song
+                                var songs = feature.properties['songs'] || [];
+                                if (songs.length > 0) {
+                                    popupContent += '<hr style="margin: 6px 0;">';
+                                    songs.forEach(function(song) {
+                                        popupContent += '<div style="margin-bottom: 8px;">';
+                                        popupContent += '<strong>' + song.title + '</strong>';
+                                        if (song.album) {
+                                            popupContent += ' <em>(' + song.album + ')</em>';
+                                        }
+                                        if (song.lyric) {
+                                            popupContent += '<br><span style="font-size: 0.9em; color: #555;">' + song.lyric + '</span>';
+                                        }
+                                        popupContent += '</div>';
+                                    });
+                                };
+
                                 layer.bindPopup(popupContent);
                             }
                         }).addTo(map);
 
-                        pointLayers.forEach(function(layer) {
-                            layer.bringToFront();
-                        });
+                        layersByFile[fileName] = newLayer;
+                        reassertStackingOrder();
                     })
                     .catch(function(error) {
                         console.log('Failed to load ' + fileName + ':', error);
