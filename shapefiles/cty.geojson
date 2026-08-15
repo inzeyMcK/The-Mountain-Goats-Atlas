@@ -1,0 +1,2605 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1575,
+          38.625
+        ]
+      },
+      "properties": {
+        "locationID": "cty001",
+        "Location/feature name (incl. historical names)": "East Saint Louis",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "USA",
+        "Region": "",
+        "State/Province": "Illinois",
+        "County": "",
+        "City": "East Saint Louis",
+        "Neighborhood (incl. boroughs)": " ",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.35277778,
+          40.95222222
+        ]
+      },
+      "properties": {
+        "locationID": "cty002",
+        "Location/feature name (incl. historical names)": "Galesburg",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "USA",
+        "Region": "",
+        "State/Province": "Illinois",
+        "County": "",
+        "City": "Galesburg",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.23583333,
+          30.04444444
+        ]
+      },
+      "properties": {
+        "locationID": "cty003",
+        "Location/feature name (incl. historical names)": "Cairo",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "USA",
+        "Region": "",
+        "State/Province": "Georgia",
+        "County": "",
+        "City": "Cairo",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62777778,
+          41.88194444
+        ]
+      },
+      "properties": {
+        "locationID": "cty004",
+        "Location/feature name (incl. historical names)": "Chicago",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "USA",
+        "Region": "",
+        "State/Province": "Illinois",
+        "County": "",
+        "City": "Chicago",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.54583333,
+          27.7625
+        ]
+      },
+      "properties": {
+        "locationID": "cty005",
+        "Location/feature name (incl. historical names)": "Tampa Bay",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "USA",
+        "Region": "",
+        "State/Province": "Florida",
+        "County": "",
+        "City": "Tampa Bay",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.39,
+          33.74888889
+        ]
+      },
+      "properties": {
+        "locationID": "cty006",
+        "Location/feature name (incl. historical names)": "Atlanta",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "USA",
+        "Region": "",
+        "State/Province": "Georgia",
+        "County": "",
+        "City": "Atlanta",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.35,
+          54.35
+        ]
+      },
+      "properties": {
+        "locationID": "cty007",
+        "Location/feature name (incl. historical names)": "Kirby Sigston",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "England",
+        "Region": "",
+        "State/Province": "",
+        "County": "",
+        "City": "Kirby Sigston",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.54361111,
+          53.7975
+        ]
+      },
+      "properties": {
+        "locationID": "cty008",
+        "Location/feature name (incl. historical names)": "Leeds",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "England",
+        "Region": "",
+        "State/Province": "",
+        "County": "",
+        "City": "Leeds",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.47472222,
+          31.22861111
+        ]
+      },
+      "properties": {
+        "locationID": "cty009",
+        "Location/feature name (incl. historical names)": "Shanghai",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "China",
+        "Region": "",
+        "State/Province": "",
+        "County": "",
+        "City": "Shanghai",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.5975,
+          51.45361111
+        ]
+      },
+      "properties": {
+        "locationID": "cty010",
+        "Location/feature name (incl. historical names)": "Bristol",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "England",
+        "Region": "",
+        "State/Province": "",
+        "County": "",
+        "City": "Bristol",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.55416667,
+          45.50888889
+        ]
+      },
+      "properties": {
+        "locationID": "cty011",
+        "Location/feature name (incl. historical names)": "Montreal",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "Canada",
+        "Region": "",
+        "State/Province": "",
+        "County": "",
+        "City": "Montreal",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": "https://datahub.io/core/geo-countries#resource-countries"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.666667,
+          -33.45
+        ]
+      },
+      "properties": {
+        "locationID": "cty012",
+        "Location/feature name (incl. historical names)": "Santiago",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "Chile",
+        "Region": "",
+        "State/Province": "",
+        "County": "",
+        "City": "Santiago",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.045,
+          47.8
+        ]
+      },
+      "properties": {
+        "locationID": "cty013",
+        "Location/feature name (incl. historical names)": "Salzburg",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "Austria",
+        "Region": "",
+        "State/Province": "",
+        "County": "",
+        "City": "Salzburg",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.07222222,
+          4.71111111
+        ]
+      },
+      "properties": {
+        "locationID": "cty014",
+        "Location/feature name (incl. historical names)": "Bogotá",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "Colombia",
+        "Region": "",
+        "State/Province": "",
+        "County": "",
+        "City": "Bogotá",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": "https://datahub.io/core/geo-countries#resource-countries"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.05138889,
+          47.4925
+        ]
+      },
+      "properties": {
+        "locationID": "cty015",
+        "Location/feature name (incl. historical names)": "Budapest",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "Hungary",
+        "Region": "",
+        "State/Province": "",
+        "County": "",
+        "City": "Budapest",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.94,
+          64.146667
+        ]
+      },
+      "properties": {
+        "locationID": "cty016",
+        "Location/feature name (incl. historical names)": "Reykjavik",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "Iceland",
+        "Region": "",
+        "State/Province": "",
+        "County": "",
+        "City": "Reykjavik",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": "https://datahub.io/core/geo-countries#resource-countries"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10,
+          53.55
+        ]
+      },
+      "properties": {
+        "locationID": "cty017",
+        "Location/feature name (incl. historical names)": "Hamburg",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "Germany",
+        "Region": "",
+        "State/Province": "",
+        "County": "",
+        "City": "Hamburg",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.375,
+          51.34
+        ]
+      },
+      "properties": {
+        "locationID": "cty018",
+        "Location/feature name (incl. historical names)": "Leipzig",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "Germany",
+        "Region": "",
+        "State/Province": "",
+        "County": "",
+        "City": "Leipzig",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.405,
+          52.52
+        ]
+      },
+      "properties": {
+        "locationID": "cty019",
+        "Location/feature name (incl. historical names)": "Berlin",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "Germany",
+        "Region": "",
+        "State/Province": "",
+        "County": "",
+        "City": "Berlin",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.74,
+          51.05
+        ]
+      },
+      "properties": {
+        "locationID": "cty020",
+        "Location/feature name (incl. historical names)": "Dresden",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "Germany",
+        "Region": "",
+        "State/Province": "",
+        "County": "",
+        "City": "Dresden",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1275,
+          51.50722222
+        ]
+      },
+      "properties": {
+        "locationID": "cty021",
+        "Location/feature name (incl. historical names)": "London",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "England",
+        "Region": "",
+        "State/Province": "",
+        "County": "",
+        "City": "London",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.35222222,
+          48.85666667
+        ]
+      },
+      "properties": {
+        "locationID": "cty022",
+        "Location/feature name (incl. historical names)": "Paris",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "France",
+        "Region": "",
+        "State/Province": "",
+        "County": "",
+        "City": "Paris",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.19138889,
+          32.88722222
+        ]
+      },
+      "properties": {
+        "locationID": "cty023",
+        "Location/feature name (incl. historical names)": "Tripoli",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "Libya",
+        "Region": "",
+        "State/Province": "",
+        "County": "",
+        "City": "Tripoli",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": "https://datahub.io/core/geo-countries#resource-countries"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8475,
+          21.16055556
+        ]
+      },
+      "properties": {
+        "locationID": "cty024",
+        "Location/feature name (incl. historical names)": "Cancun",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "Mexico",
+        "Region": "",
+        "State/Province": "",
+        "County": "",
+        "City": "Cancun",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": "https://datahub.io/core/geo-countries#resource-countries"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.22555556,
+          31.77888889
+        ]
+      },
+      "properties": {
+        "locationID": "cty025",
+        "Location/feature name (incl. historical names)": "Jerusalem",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "Israel",
+        "Region": "",
+        "State/Province": "",
+        "County": "",
+        "City": "Jerusalem",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "Also referred to as Salem (biblical) in one song)",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.79305556,
+          17.97138889
+        ]
+      },
+      "properties": {
+        "locationID": "cty026",
+        "Location/feature name (incl. historical names)": "Kingston",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "Jamaica",
+        "Region": "",
+        "State/Province": "",
+        "County": "",
+        "City": "Kingston",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8775,
+          19.07611111
+        ]
+      },
+      "properties": {
+        "locationID": "cty027",
+        "Location/feature name (incl. historical names)": "Bombay",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "India",
+        "Region": "",
+        "State/Province": "",
+        "County": "",
+        "City": "Mumbai",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": "https://datahub.io/core/geo-countries#resource-countries"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8275,
+          -6.175
+        ]
+      },
+      "properties": {
+        "locationID": "cty028",
+        "Location/feature name (incl. historical names)": "Jakarta",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "Indonesia",
+        "Region": "",
+        "State/Province": "",
+        "County": "",
+        "City": "Jakarta",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8,
+          26.9
+        ]
+      },
+      "properties": {
+        "locationID": "cty029",
+        "Location/feature name (incl. historical names)": "Jaipur",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "India",
+        "Region": "",
+        "State/Province": "",
+        "County": "",
+        "City": "Jaipur",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.37,
+          22.5675
+        ]
+      },
+      "properties": {
+        "locationID": "cty030",
+        "Location/feature name (incl. historical names)": "Calcutta",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "India",
+        "Region": "",
+        "State/Province": "",
+        "County": "",
+        "City": "Kolkata",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": "https://datahub.io/core/geo-countries#resource-countries"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.99,
+          37.56
+        ]
+      },
+      "properties": {
+        "locationID": "cty031",
+        "Location/feature name (incl. historical names)": "Seoul",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "South Korea",
+        "Region": "",
+        "State/Province": "",
+        "County": "",
+        "City": "Seoul",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.06861111,
+          59.32944444
+        ]
+      },
+      "properties": {
+        "locationID": "cty032",
+        "Location/feature name (incl. historical names)": "Stockholm",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "Sweden",
+        "Region": "",
+        "State/Province": "",
+        "County": "",
+        "City": "Stockholm",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": "https://datahub.io/core/geo-countries#resource-countries"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.01111111,
+          52.23
+        ]
+      },
+      "properties": {
+        "locationID": "cty033",
+        "Location/feature name (incl. historical names)": "Warsaw",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "Poland",
+        "Region": "",
+        "State/Province": "",
+        "County": "",
+        "City": "Warsaw",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.51472222,
+          48.70861111
+        ]
+      },
+      "properties": {
+        "locationID": "cty034",
+        "Location/feature name (incl. historical names)": "Stalingrad",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "Russia",
+        "Region": "",
+        "State/Province": "",
+        "County": "",
+        "City": "Volgograd",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.12166667,
+          52.09083333
+        ]
+      },
+      "properties": {
+        "locationID": "cty035",
+        "Location/feature name (incl. historical names)": "Utrecht",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "Netherlands",
+        "Region": "",
+        "State/Province": "",
+        "County": "",
+        "City": "Utrecht",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": "https://datahub.io/core/geo-countries#resource-countries"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0375,
+          -12.06
+        ]
+      },
+      "properties": {
+        "locationID": "cty036",
+        "Location/feature name (incl. historical names)": "Lima",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "Peru",
+        "Region": "",
+        "State/Province": "",
+        "County": "",
+        "City": "Lima",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.39388889,
+          24.80694444
+        ]
+      },
+      "properties": {
+        "locationID": "cty037",
+        "Location/feature name (incl. historical names)": "Culiacán",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "Mexico",
+        "Region": "",
+        "State/Province": "",
+        "County": "",
+        "City": "Culiacán",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.46777778,
+          32.66333333
+        ]
+      },
+      "properties": {
+        "locationID": "cty038",
+        "Location/feature name (incl. historical names)": "Mexicali",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "Mexico",
+        "Region": "",
+        "State/Province": "",
+        "County": "",
+        "City": "Mexicali",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": "https://datahub.io/core/geo-countries#resource-countries"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3233,
+          36.8528
+        ]
+      },
+      "properties": {
+        "locationID": "cty039",
+        "Location/feature name (incl. historical names)": "Carthage",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "Tunisia",
+        "Region": "",
+        "State/Province": "",
+        "County": "",
+        "City": "Carthage",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3893085,
+          35.4201676
+        ]
+      },
+      "properties": {
+        "locationID": "cty040",
+        "Location/feature name (incl. historical names)": "Aulon",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "Syria",
+        "Region": "",
+        "State/Province": "",
+        "County": "",
+        "City": "Apamea",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.430052,
+          36.467313
+        ]
+      },
+      "properties": {
+        "locationID": "cty041",
+        "Location/feature name (incl. historical names)": "Calama",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "Algeria",
+        "Region": "",
+        "State/Province": "",
+        "County": "",
+        "City": "Guelma",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.328247,
+          48.472081
+        ]
+      },
+      "properties": {
+        "locationID": "cty042",
+        "Location/feature name (incl. historical names)": "\"four hours north of Portland\"",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "USA",
+        "Region": "",
+        "State/Province": "Washington",
+        "County": "",
+        "City": "Burlington",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9025,
+          52.48
+        ]
+      },
+      "properties": {
+        "locationID": "cty044",
+        "Location/feature name (incl. historical names)": "Birmingham, United Kingdom",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "United Kingdom",
+        "Region": "",
+        "State/Province": "",
+        "County": "",
+        "City": "Birmingham",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.129089,
+          40.857552
+        ]
+      },
+      "properties": {
+        "locationID": "cty046",
+        "Location/feature name (incl. historical names)": "Passaic",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "USA",
+        "Region": "",
+        "State/Province": "New Jersey",
+        "County": "",
+        "City": "Passaic",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.763624,
+          40.223841
+        ]
+      },
+      "properties": {
+        "locationID": "cty047",
+        "Location/feature name (incl. historical names)": "Trenton",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "USA",
+        "Region": "",
+        "State/Province": "New Jersey",
+        "County": "",
+        "City": "Trenton",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.13638889,
+          36.175
+        ]
+      },
+      "properties": {
+        "locationID": "cty048",
+        "Location/feature name (incl. historical names)": "Las Vegas",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "USA",
+        "Region": "",
+        "State/Province": "Nevada",
+        "County": "",
+        "City": "Las Vegas",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.085024,
+          40.817097
+        ]
+      },
+      "properties": {
+        "locationID": "cty049",
+        "Location/feature name (incl. historical names)": "East Rutherford",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "USA",
+        "Region": "",
+        "State/Province": "New Jersey",
+        "County": "",
+        "City": "East Rutherford",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.04583333,
+          42.33138889
+        ]
+      },
+      "properties": {
+        "locationID": "cty050",
+        "Location/feature name (incl. historical names)": "Detroit",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "USA",
+        "Region": "",
+        "State/Province": "Michigan",
+        "County": "",
+        "City": "Detroit",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.76416667,
+          44.61888889
+        ]
+      },
+      "properties": {
+        "locationID": "cty051",
+        "Location/feature name (incl. historical names)": "Belle Plaine",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "USA",
+        "Region": "",
+        "State/Province": "Minnesota",
+        "County": "",
+        "City": "Belle Plaine",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.7675,
+          44.80305556
+        ]
+      },
+      "properties": {
+        "locationID": "cty052",
+        "Location/feature name (incl. historical names)": "Bangor",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "USA",
+        "Region": "",
+        "State/Province": "Maine",
+        "County": "",
+        "City": "Bangor",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.05777778,
+          42.36027778
+        ]
+      },
+      "properties": {
+        "locationID": "cty053",
+        "Location/feature name (incl. historical names)": "Boston",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "USA",
+        "Region": "",
+        "State/Province": "Massachusetts",
+        "County": "",
+        "City": "Boston",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.68194444,
+          45.52
+        ]
+      },
+      "properties": {
+        "locationID": "cty054",
+        "Location/feature name (incl. historical names)": "Portland",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "USA",
+        "Region": "",
+        "State/Province": "Oregon",
+        "County": "",
+        "City": "Portland",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.77638889,
+          40.37222222
+        ]
+      },
+      "properties": {
+        "locationID": "cty055",
+        "Location/feature name (incl. historical names)": "Ehrenfeld",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "USA",
+        "Region": "",
+        "State/Province": "Pennsylvania",
+        "County": " ",
+        "City": "Ehrenfeld",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5125,
+          39.1
+        ]
+      },
+      "properties": {
+        "locationID": "cty056",
+        "Location/feature name (incl. historical names)": "Cincinnati",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "USA",
+        "Region": "",
+        "State/Province": "Ohio",
+        "County": "",
+        "City": "Cincinnati",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.93722222,
+          36.13138889
+        ]
+      },
+      "properties": {
+        "locationID": "cty057",
+        "Location/feature name (incl. historical names)": "Tulsa",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "USA",
+        "Region": "",
+        "State/Province": "Oklahoma",
+        "County": "",
+        "City": "Tulsa",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.97194444,
+          35.37777778
+        ]
+      },
+      "properties": {
+        "locationID": "cty058",
+        "Location/feature name (incl. historical names)": "Goldsboro",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "USA",
+        "Region": "",
+        "State/Province": "North Carolina",
+        "County": " ",
+        "City": "Goldsboro",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.66972222,
+          41.48222222
+        ]
+      },
+      "properties": {
+        "locationID": "cty059",
+        "Location/feature name (incl. historical names)": "Cleveland",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "USA",
+        "Region": "",
+        "State/Province": "Ohio",
+        "County": "",
+        "City": "Cleveland",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.61,
+          35.11083333
+        ]
+      },
+      "properties": {
+        "locationID": "cty060",
+        "Location/feature name (incl. historical names)": "Albuquerque",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "USA",
+        "Region": "",
+        "State/Province": "New Mexico",
+        "County": "",
+        "City": "Albuquerque",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.83305556,
+          36.38138889
+        ]
+      },
+      "properties": {
+        "locationID": "cty061",
+        "Location/feature name (incl. historical names)": "Corolla",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "USA",
+        "Region": "",
+        "State/Province": "North Carolina",
+        "County": " ",
+        "City": "Corolla",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.48861111,
+          31.75916667
+        ]
+      },
+      "properties": {
+        "locationID": "cty062",
+        "Location/feature name (incl. historical names)": "El Paso",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "USA",
+        "Region": "",
+        "State/Province": "Texas",
+        "County": "",
+        "City": "El Paso",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.38305556,
+          29.76277778
+        ]
+      },
+      "properties": {
+        "locationID": "cty063",
+        "Location/feature name (incl. historical names)": "Houston",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "USA",
+        "Region": "",
+        "State/Province": "Texas",
+        "County": "",
+        "City": "Houston",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.80888889,
+          32.77916667
+        ]
+      },
+      "properties": {
+        "locationID": "cty064",
+        "Location/feature name (incl. historical names)": "Dallas",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "USA",
+        "Region": "",
+        "State/Province": "Texas",
+        "County": "",
+        "City": "Dallas",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.12916667,
+          33.21638889
+        ]
+      },
+      "properties": {
+        "locationID": "cty065",
+        "Location/feature name (incl. historical names)": "Denton",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "USA",
+        "Region": "",
+        "State/Province": "Texas",
+        "County": "",
+        "City": "Denton",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.74305556,
+          30.26722222
+        ]
+      },
+      "properties": {
+        "locationID": "cty066",
+        "Location/feature name (incl. historical names)": "Austin",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "USA",
+        "Region": "",
+        "State/Province": "Texas",
+        "County": "",
+        "City": "Austin",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.48444444,
+          25.93027778
+        ]
+      },
+      "properties": {
+        "locationID": "cty067",
+        "Location/feature name (incl. historical names)": "Brownsville",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "USA",
+        "Region": "",
+        "State/Province": "Texas",
+        "County": "",
+        "City": "Brownsville",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.87555556,
+          40.26972222
+        ]
+      },
+      "properties": {
+        "locationID": "cty068",
+        "Location/feature name (incl. historical names)": "Harrisburg",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "USA",
+        "Region": "",
+        "State/Province": "Pennsylvania",
+        "County": " ",
+        "City": "Harrisburg",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.482778,
+          41.893333
+        ]
+      },
+      "properties": {
+        "locationID": "cty070",
+        "Location/feature name (incl. historical names)": "Rome",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": " ",
+        "Region": "",
+        "State/Province": "",
+        "County": "",
+        "City": "Rome",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.809444,
+          33.5175
+        ]
+      },
+      "properties": {
+        "locationID": "cty071",
+        "Location/feature name (incl. historical names)": "Birmingham, Alabama",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "USA",
+        "Region": "",
+        "State/Province": "Alabama",
+        "County": "",
+        "City": "Birmingham",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33305556,
+          47.60972222
+        ]
+      },
+      "properties": {
+        "locationID": "cty072",
+        "Location/feature name (incl. historical names)": "Seattle",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "USA",
+        "Region": "",
+        "State/Province": "Washington",
+        "County": "",
+        "City": "Seattle",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.09111111,
+          47.91916667
+        ]
+      },
+      "properties": {
+        "locationID": "cty073",
+        "Location/feature name (incl. historical names)": "Snohomish",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "USA",
+        "Region": "",
+        "State/Province": "Washington",
+        "County": "",
+        "City": "Snohomish",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.66083333,
+          40.24444444
+        ]
+      },
+      "properties": {
+        "locationID": "cty074",
+        "Location/feature name (incl. historical names)": "Provo",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "USA",
+        "Region": "",
+        "State/Province": "Utah",
+        "County": "",
+        "City": "Provo",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.97111111,
+          35.1175
+        ]
+      },
+      "properties": {
+        "locationID": "cty075",
+        "Location/feature name (incl. historical names)": "Memphis",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "USA",
+        "Region": "",
+        "State/Province": "Tennessee",
+        "County": "",
+        "City": "Memphis",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.1,
+          32
+        ]
+      },
+      "properties": {
+        "locationID": "cty076",
+        "Location/feature name (incl. historical names)": "Midland",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "USA",
+        "Region": "",
+        "State/Province": "Texas",
+        "County": "",
+        "City": "Midland",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.15583333,
+          31.55138889
+        ]
+      },
+      "properties": {
+        "locationID": "cty077",
+        "Location/feature name (incl. historical names)": "Waco",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "USA",
+        "Region": "",
+        "State/Province": "Texas",
+        "County": "",
+        "City": "Waco",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.69,
+          34.01777778
+        ]
+      },
+      "properties": {
+        "locationID": "cty078",
+        "Location/feature name (incl. historical names)": "Chino",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "USA",
+        "Region": "",
+        "State/Province": "California",
+        "County": "",
+        "City": "Chino",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.69805556,
+          33.46722222
+        ]
+      },
+      "properties": {
+        "locationID": "cty079",
+        "Location/feature name (incl. historical names)": "Dana Point",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "USA",
+        "Region": "",
+        "State/Province": "California",
+        "County": "",
+        "City": "Dana Point",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.92638889,
+          32.22166667
+        ]
+      },
+      "properties": {
+        "locationID": "cty080",
+        "Location/feature name (incl. historical names)": "Tucson",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "USA",
+        "Region": "",
+        "State/Province": "Arizona",
+        "County": "",
+        "City": "Tucson",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": "https://datahub.io/core/geo-countries#resource-countries"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.71972222,
+          34.11
+        ]
+      },
+      "properties": {
+        "locationID": "cty081",
+        "Location/feature name (incl. historical names)": "Claremont",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "USA",
+        "Region": "",
+        "State/Province": "California",
+        "County": "",
+        "City": "Claremont",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.04305556,
+          30.69444444
+        ]
+      },
+      "properties": {
+        "locationID": "cty082",
+        "Location/feature name (incl. historical names)": "Mobile",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "USA",
+        "Region": "",
+        "State/Province": "Alabama",
+        "County": "",
+        "City": "Mobile",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.27916667,
+          32.36166667
+        ]
+      },
+      "properties": {
+        "locationID": "cty083",
+        "Location/feature name (incl. historical names)": "Montgomery",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "USA",
+        "Region": "",
+        "State/Province": "Alabama",
+        "County": "",
+        "City": "Montgomery",
+        "Neighborhood (incl. boroughs)": " ",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5625,
+          25.0375
+        ]
+      },
+      "properties": {
+        "locationID": "cty084",
+        "Location/feature name (incl. historical names)": "Taipei",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "Taiwan",
+        "Region": "",
+        "State/Province": "",
+        "County": "",
+        "City": "Taipei",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": "https://datahub.io/core/geo-countries#resource-countries"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.49416667,
+          13.7525
+        ]
+      },
+      "properties": {
+        "locationID": "cty085",
+        "Location/feature name (incl. historical names)": "Bangkok",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "Thailand",
+        "Region": "",
+        "State/Province": "",
+        "County": "",
+        "City": "Bangkok",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.75583333,
+          34.06083333
+        ]
+      },
+      "properties": {
+        "locationID": "cty086",
+        "Location/feature name (incl. historical names)": "Pomona",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "USA",
+        "Region": "",
+        "State/Province": "California",
+        "County": "",
+        "City": "Pomona",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.366667,
+          40.583333
+        ]
+      },
+      "properties": {
+        "locationID": "cty087",
+        "Location/feature name (incl. historical names)": "Redding",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "USA",
+        "Region": "",
+        "State/Province": "California",
+        "County": "",
+        "City": "Redding",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5,
+          49.25
+        ]
+      },
+      "properties": {
+        "locationID": "cty088",
+        "Location/feature name (incl. historical names)": "Ontario, California",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "USA",
+        "Region": "",
+        "State/Province": "California",
+        "County": "",
+        "City": "Ontario",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": "https://datahub.io/core/geo-countries#resource-countries"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.54527778,
+          33.83027778
+        ]
+      },
+      "properties": {
+        "locationID": "cty089",
+        "Location/feature name (incl. historical names)": "Palm Springs",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "USA",
+        "Region": "",
+        "State/Province": "California",
+        "County": "",
+        "City": "Palm Springs",
+        "Neighborhood (incl. boroughs)": " ",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.695,
+          34.035
+        ]
+      },
+      "properties": {
+        "locationID": "cty090",
+        "Location/feature name (incl. historical names)": "Malibu",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "USA",
+        "Region": "",
+        "State/Province": "California",
+        "County": "",
+        "City": "Malibu",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.08333333,
+          33.90694444
+        ]
+      },
+      "properties": {
+        "locationID": "cty091",
+        "Location/feature name (incl. historical names)": "Norwalk",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "USA",
+        "Region": "",
+        "State/Province": "California",
+        "County": "",
+        "City": "Norwalk",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": "https://datahub.io/core/geo-countries#resource-countries"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.96027778,
+          33.77888889
+        ]
+      },
+      "properties": {
+        "locationID": "cty092",
+        "Location/feature name (incl. historical names)": "Garden Grove",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "USA",
+        "Region": "",
+        "State/Province": "California",
+        "County": "",
+        "City": "Garden Grove",
+        "Neighborhood (incl. boroughs)": " ",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.25,
+          34.05
+        ]
+      },
+      "properties": {
+        "locationID": "cty093",
+        "Location/feature name (incl. historical names)": "Los Angeles",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "USA",
+        "Region": "",
+        "State/Province": "California",
+        "County": "",
+        "City": "Los Angeles",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": "https://datahub.io/core/geo-countries#resource-countries"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.25333333,
+          30.455
+        ]
+      },
+      "properties": {
+        "locationID": "cty094",
+        "Location/feature name (incl. historical names)": "Tallahassee",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "USA",
+        "Region": "",
+        "State/Province": "Florida",
+        "County": "",
+        "City": "Tallahassee",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.45861111,
+          27.9475
+        ]
+      },
+      "properties": {
+        "locationID": "cty095",
+        "Location/feature name (incl. historical names)": "Tampa",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "USA",
+        "Region": "",
+        "State/Province": "Florida",
+        "County": "",
+        "City": "Tampa",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.91861111,
+          34.05666667
+        ]
+      },
+      "properties": {
+        "locationID": "cty096",
+        "Location/feature name (incl. historical names)": "West Covina",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "USA",
+        "Region": "",
+        "State/Province": "California",
+        "County": "",
+        "City": "West Covina",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.27861111,
+          27.17111111
+        ]
+      },
+      "properties": {
+        "locationID": "cty097",
+        "Location/feature name (incl. historical names)": "Palm City",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "USA",
+        "Region": "",
+        "State/Province": "Florida",
+        "County": "",
+        "City": "Palm City",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.89055556,
+          37.33611111
+        ]
+      },
+      "properties": {
+        "locationID": "cty098",
+        "Location/feature name (incl. historical names)": "San Jose",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "USA",
+        "Region": "",
+        "State/Province": "California",
+        "County": "",
+        "City": "San Jose",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7,
+          34.41666667
+        ]
+      },
+      "properties": {
+        "locationID": "cty099",
+        "Location/feature name (incl. historical names)": "Santa Barbara",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "USA",
+        "Region": "",
+        "State/Province": "California",
+        "County": "",
+        "City": "Santa Barbara",
+        "Neighborhood (incl. boroughs)": " ",
+        "Street address": "",
+        "Notes": "",
+        "Source": "https://datahub.io/core/geo-countries#resource-countries"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3,
+          34.1
+        ]
+      },
+      "properties": {
+        "locationID": "cty100",
+        "Location/feature name (incl. historical names)": "San Bernardino",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "USA",
+        "Region": "",
+        "State/Province": "California",
+        "County": "",
+        "City": "San Bernardino",
+        "Neighborhood (incl. boroughs)": " ",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41638889,
+          37.7775
+        ]
+      },
+      "properties": {
+        "locationID": "cty101",
+        "Location/feature name (incl. historical names)": "San Francisco",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "USA",
+        "Region": "",
+        "State/Province": "California",
+        "County": "",
+        "City": "San Francisco",
+        "Neighborhood (incl. boroughs)": " ",
+        "Street address": "",
+        "Notes": "",
+        "Source": "https://datahub.io/core/geo-countries#resource-countries"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.15805556,
+          39.76861111
+        ]
+      },
+      "properties": {
+        "locationID": "cty102",
+        "Location/feature name (incl. historical names)": "Indianapolis",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "USA",
+        "Region": "",
+        "State/Province": "Indiana",
+        "County": "",
+        "City": "Indianapolis",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.08055556,
+          29.96666667
+        ]
+      },
+      "properties": {
+        "locationID": "cty103",
+        "Location/feature name (incl. historical names)": "New Orleans",
+        "COMPLETE": "FALSE",
+        "Geometry type": "point",
+        "Geography type": "city",
+        "Country": "USA",
+        "Region": "",
+        "State/Province": "Louisiana",
+        "County": "",
+        "City": "New Orleans",
+        "Neighborhood (incl. boroughs)": "",
+        "Street address": "",
+        "Notes": "",
+        "Source": ""
+      }
+    }
+  ]
+}
