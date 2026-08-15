@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>Mountain Goats Atlas</title>
+
+        <!-- This line loads Leaflet's CSS (styling for the map controls, etc) -->
+         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+
+         <style>
+            /* Leaflet needs the map container to have an explicit height, or it renders as a blank sliver */
+            html, body {
+                margin: 0;
+                padding: 0;
+                height: 100%;
+            }
+            #map {
+                height: 100%;
+                width: 100%;
+            }
+         </style>
+    </head>
+    <body>
+
+        <!-- This empty div is where the map will be drawn. The id="map" is how we refer to it in JS below. -->
+         <div id="map"></div>
+
+         <!-- This line loads Leaflet's Javascript code -->
+          <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+          <!-- Now my code, using the Leaflet code that just loaded -->
+           <script>
+            // L.map('map', ...) creates a map inside the div with id="map"
+            // setView([latitude, longitude], zoomLevel) centers and zooms it.
+            var map = L.map('map').setView([39.8, -98.5], 4);
+
+            // A map with no imagery is just gray. This adds the actual visual tiles (from OpenStreetMap)
+
+            L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+                attribution: '&copy; OpenStreetMap contributors &copy; CARTO'
+            }).addTo(map);
+
+            var baseUrl = 'https://raw.githubusercontent.com/inzeyMcK/The-Mountain-Goats-Atlas/main/shapefiles/';
+            var fileNames = [
+                'ctr.geojson', 
+                'sta.geojson', 
+                'cou.geojson', 
+                'rgn.geojson', 
+                'nhd.geojson', 
+                'npg.geojson', 
+                'bdr.geojson', 
+                'nli.geojson', 
+                'rte.geojson', 
+                'str.geojson', 
+                'adr.geojson', 
+                'cty.geojson', 
+                'npt.geojson'];
+
+            var fileColors = {
+                'adr.geojson': '#e6194B',
+                'bdr.geojson': '#f58231',
+                'cou.geojson': '#bfef45',
+                'ctr.geojson': '#469990',
+                'cty.geojson': '#3cb44b',
+                'nhd.geojson': '#9A6324',
+                'nli.geojson': '#42d4f4',
+                'npg.geojson': '#800000',
+                'npt.geojson': '#4363d8',
+                'rgn.geojson': '#fabebe',
+                'rte.geojson': '#911eb4',
+                'sta.geojson': '#e6beff',
+                'str.geojson': '#f032e6'
+            }
+
+            function loadGeoJSONFile(fileName) {
+                var fullUrl = baseUrl + fileName;
+                var color = fileColors[fileName] || '#000000'; // Default to black if no color is specified
+
+                fetch(fullUrl)
+                    .then(function(response) {
+                        return response.json();
+                    })
+                    .then(function(data) {
+                        L.geoJSON(data, {
+                            pointToLayer: function(feature, latlng) {
+                                return L.circleMarker(latlng, {
+                                    radius: 6,
+                                    fillColor: color,
+                                    color: color,
+                                    weight: 1,
+                                    fillOpacity: 0.8
+                                });
+                            },
+                            style: function(feature) {
+                                return {
+                                    color: color,
+                                    weight: 2,
+                                    fillColor: color,
+                                    fillOpacity: 0.2
+                                };
+                            },
+                            onEachFeature: function(feature, layer) {
+                                var name = feature.properties['Location/feature name (incl. historical names)'];
+                                layer.bindPopup(name);
+                            }
+                        }).addTo(map);
+                    })
+                    .catch(function(error) {
+                        console.log('Failed to load ' + fileName + ':', error);
+                    });
+            }
+
+            // This is the loop: run loadGeoJSONFile() once for every name in the list.
+            fileNames.forEach(function(fileName) {
+                loadGeoJSONFile(fileName);
+            });
+           </script>
+    </body>
+</html>
