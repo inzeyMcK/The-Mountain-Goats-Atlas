@@ -3195,14 +3195,6 @@
 						"lyric": "[title]"
 					},
 					{
-						"title": "Fire Editorial",
-						"album": "Beat the Champ",
-						"albums": [
-							"Beat the Champ"
-						],
-						"lyric": "\"War in Ontario! Dead before the bell\""
-					},
-					{
 						"title": "Rage of Travers",
 						"album": "Goths",
 						"albums": [
@@ -3218,8 +3210,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-116.54527778,
-					33.83027778
+					-117.6510,
+					34.0633
 				]
 			},
 			"properties": {
