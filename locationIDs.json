@@ -4245,5 +4245,41 @@
 		"Latitude": " ",
 		"Longitude": "",
 		"Source": ""
+	},
+	{
+		"locationID": "cty104",
+		"Location/feature name (incl. historical names)": "Baton Rouge",
+		"COMPLETE": "TRUE",
+		"Geometry type": "point",
+		"Geography type": "city",
+		"Country": "USA",
+		"Region": "",
+		"State/Province": "Louisiana",
+		"County": "",
+		"City": "Baton Rouge",
+		"Neighborhood (incl. boroughs)": "",
+		"Street address": "",
+		"Notes": "",
+		"Latitude": "30.4475",
+		"Longitude": "-91.178611",
+		"Source": "geohack.toolforge.org"
+	},
+	{
+		"locationID": "cty105",
+		"Location/feature name (incl. historical names)": "Toronto",
+		"COMPLETE": "TRUE",
+		"Geometry type": "point",
+		"Geography type": "city",
+		"Country": "Canada",
+		"Region": "",
+		"State/Province": "Ontario",
+		"County": "",
+		"City": "Toronto",
+		"Neighborhood (incl. boroughs)": "",
+		"Street address": "",
+		"Notes": "",
+		"Latitude": "43.651070",
+		"Longitude": "-79.347015",
+		"Source": "geohack.toolforge.org"
 	}
 ]

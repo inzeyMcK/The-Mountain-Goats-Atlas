@@ -3868,7 +3868,7 @@
 				"Region": "",
 				"State/Province": "Louisiana",
 				"County": "",
-				"City": "New Orleans",
+				"City": "Baton Rouge",
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
@@ -3881,6 +3881,42 @@
 							"Jenny from Thebes"
 						],
 						"lyric": "\"Look on every lamppost / From here to Baton Rouge\""
+					}
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.347015,
+					43.651070
+				]
+			},
+			"properties": {
+				"locationID": "cty105",
+				"Location/feature name (incl. historical names)": "Toronto",
+				"COMPLETE": "TRUE",
+				"Geometry type": "point",
+				"Geography type": "city",
+				"Country": "Canada",
+				"Region": "",
+				"State/Province": "Ontario",
+				"County": "",
+				"City": "Toronto",
+				"Neighborhood (incl. boroughs)": "",
+				"Street address": "",
+				"Notes": "",
+				"Source": "geohack.toolforge.org",
+				"songs": [
+					{
+						"title": "Fire Editorial",
+						"album": "Beat the Champ",
+						"albums": [
+							"Beat the Champ"
+						],
+						"lyric": "\"Two blinded in Detroit!\""
 					}
 				]
 			}
