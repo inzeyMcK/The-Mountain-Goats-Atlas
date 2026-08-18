@@ -1,0 +1,111 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"locationID": "npt001",
+				"Location/feature name (incl. historical names)": "Palatine Hill",
+				"Geometry type": "point",
+				"Geography type": "feature",
+				"Country": "Italy",
+				"Region": "",
+				"State/Province": "",
+				"County": "",
+				"City": "",
+				"Neighborhood (incl. boroughs)": "",
+				"Street address": "",
+				"Notes": "",
+				"Source": "",
+				"songs": [
+					{
+						"title": "Up the Wolves",
+						"album": "The Sunset Tree",
+						"albums": [
+							"The Sunset Tree",
+							"The Jordan Lake Sessions: Volumes 1 and 2"
+						],
+						"lyric": "\"Our mother has been absent / Ever since we founded Rome / But there's gonna be a party / When the wolf comes home\""
+					}
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					12.486944,
+					41.888333
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"locationID": "npt002",
+				"Location/feature name (incl. historical names)": "La Chapelle-aux-Saints cave",
+				"Geometry type": "point",
+				"Geography type": "feature",
+				"Country": "France",
+				"Region": "",
+				"State/Province": "",
+				"County": "",
+				"City": "",
+				"Neighborhood (incl. boroughs)": "",
+				"Street address": "",
+				"Notes": "",
+				"Source": "",
+				"songs": [
+					{
+						"title": "Sourdoire Valley Song",
+						"album": "All Eternals Deck",
+						"albums": [
+							"All Eternals Deck"
+						],
+						"lyric": "[title]"
+					}
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					1.725199,
+					44.987241
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"locationID": "npt003",
+				"Location/feature name (incl. historical names)": "Olduvai Gorge",
+				"Geometry type": "point",
+				"Geography type": "feature",
+				"Country": "Tanzania",
+				"Region": "",
+				"State/Province": "",
+				"County": "",
+				"City": "",
+				"Neighborhood (incl. boroughs)": "",
+				"Street address": "",
+				"Notes": "",
+				"Source": "",
+				"songs": [
+					{
+						"title": "Sourdoire Valley Song",
+						"album": "All Eternals Deck",
+						"albums": [
+							"All Eternals Deck"
+						],
+						"lyric": "\"And then the gras grows up to cover up / The firepit and the forge / Half a world away from the Olduvai Gorge\""
+					}
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					35.3692844587276,
+					-2.96602373453159
+				]
+			}
+		}
+	]
+}

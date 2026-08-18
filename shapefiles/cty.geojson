@@ -3,17 +3,9 @@
 	"features": [
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-90.1575,
-					38.625
-				]
-			},
 			"properties": {
 				"locationID": "cty001",
 				"Location/feature name (incl. historical names)": "East Saint Louis",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "USA",
@@ -21,7 +13,7 @@
 				"State/Province": "Illinois",
 				"County": "",
 				"City": "East Saint Louis",
-				"Neighborhood (incl. boroughs)": " ",
+				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
 				"Source": "",
@@ -30,7 +22,8 @@
 						"title": "Color in Your Cheeks",
 						"album": "All Hail West Texas",
 						"albums": [
-							"All Hail West Texas"
+							"All Hail West Texas",
+							"All Hail West Texas (2013 re-issue)"
 						],
 						"lyric": "\"And they came from Zimbabwe, or from Soviet Georgia / East Saint Louis, or from Paris, or they lived across the street\""
 					},
@@ -43,21 +36,20 @@
 						"lyric": "\"One from East St. Louis with a scar beneath his eye\""
 					}
 				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-90.1575,
+					38.625
+				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-90.35277778,
-					40.95222222
-				]
-			},
 			"properties": {
 				"locationID": "cty002",
 				"Location/feature name (incl. historical names)": "Galesburg",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "USA",
@@ -79,21 +71,20 @@
 						"lyric": "\"And we love these dogs that roll on the lawns here in Galesburg / Because they seem to know something nobody else knows\""
 					}
 				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-90.35278,
+					40.95222
+				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					31.23583333,
-					30.04444444
-				]
-			},
 			"properties": {
 				"locationID": "cty003",
 				"Location/feature name (incl. historical names)": "Cairo",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "USA",
@@ -110,26 +101,26 @@
 						"title": "Alpha Omega",
 						"album": "Our Salvation Is in Hand",
 						"albums": [
-							"Our Salvation Is in Hand"
+							"Our Salvation Is in Hand",
+							"Protein Source of the Future\u2026Now!"
 						],
 						"lyric": "\"I had boiled peanuts for breakfast from Cairo, Georgia\""
 					}
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					31.23583,
+					30.04444
 				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-87.62777778,
-					41.88194444
-				]
-			},
 			"properties": {
 				"locationID": "cty004",
 				"Location/feature name (incl. historical names)": "Chicago",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "USA",
@@ -154,7 +145,8 @@
 						"title": "Snakeheads",
 						"album": "Palmcorder Yajna EP",
 						"albums": [
-							"Palmcorder Yajna EP"
+							"Palmcorder Yajna EP",
+							"We Shall All Be Healed"
 						],
 						"lyric": "\"Me and Lee Chong from Chicago in a U-Haul\""
 					},
@@ -167,21 +159,20 @@
 						"lyric": "\"I heard some good things from sone friends about Chicago / I gotta see with my own eyes about Chicago\""
 					}
 				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-87.62778,
+					41.88194
+				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-82.54583333,
-					27.7625
-				]
-			},
 			"properties": {
 				"locationID": "cty005",
 				"Location/feature name (incl. historical names)": "Tampa Bay",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "USA",
@@ -203,21 +194,20 @@
 						"lyric": "\"And it's gonna be just you and me today / Waiting for the other shoe to drop in Tampa Bay\""
 					}
 				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-82.54583,
+					27.7625
+				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-84.39,
-					33.74888889
-				]
-			},
 			"properties": {
 				"locationID": "cty006",
 				"Location/feature name (incl. historical names)": "Atlanta",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "USA",
@@ -239,21 +229,20 @@
 						"lyric": "\"I am coming to Atlanta again\""
 					}
 				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-84.39,
+					33.74889
+				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-1.35,
-					54.35
-				]
-			},
 			"properties": {
 				"locationID": "cty007",
 				"Location/feature name (incl. historical names)": "Kirby Sigston",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "England",
@@ -275,21 +264,20 @@
 						"lyric": "[title]"
 					}
 				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-1.35,
+					54.35
+				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-1.54361111,
-					53.7975
-				]
-			},
 			"properties": {
 				"locationID": "cty008",
 				"Location/feature name (incl. historical names)": "Leeds",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "England",
@@ -311,21 +299,20 @@
 						"lyric": "\"Nobody ever gets away / Even the best of us come back someday / To the unmarked rooms where the dry dust breeds / Andrew Eldritch is moving back to Leeds\""
 					}
 				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-1.54361,
+					53.7975
+				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					121.47472222,
-					31.22861111
-				]
-			},
 			"properties": {
 				"locationID": "cty009",
 				"Location/feature name (incl. historical names)": "Shanghai",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "China",
@@ -342,26 +329,26 @@
 						"title": "The Lady from Shanghai",
 						"album": "Songs for Petronius",
 						"albums": [
-							"Songs for Petronius"
+							"Songs for Petronius",
+							"Bitter Melon Farm (1999)"
 						],
 						"lyric": "[title]"
 					}
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.47472,
+					31.22861
 				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-2.5975,
-					51.45361111
-				]
-			},
 			"properties": {
 				"locationID": "cty010",
 				"Location/feature name (incl. historical names)": "Bristol",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "England",
@@ -383,21 +370,20 @@
 						"lyric": "\"I knew you were leaving / I knew you were going to Bristol\""
 					}
 				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-2.5975,
+					51.45361
+				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-73.55416667,
-					45.50888889
-				]
-			},
 			"properties": {
 				"locationID": "cty011",
 				"Location/feature name (incl. historical names)": "Montreal",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "Canada",
@@ -414,26 +400,26 @@
 						"title": "Earth Air Water Trees",
 						"album": "Tropical Depression",
 						"albums": [
-							"Tropical Depression"
+							"Tropical Depression",
+							"Ghana"
 						],
 						"lyric": "\"And the light was bright and clear and cold / Over eastern Montreal\""
 					}
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.55417,
+					45.50889
 				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-70.666667,
-					-33.45
-				]
-			},
 			"properties": {
 				"locationID": "cty012",
 				"Location/feature name (incl. historical names)": "Santiago",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "Chile",
@@ -450,26 +436,26 @@
 						"title": "Going to Santiago",
 						"album": "Transmissions to Horace",
 						"albums": [
-							"Transmissions to Horace"
+							"Transmissions to Horace",
+							"Bitter Melon Farm (1999)"
 						],
 						"lyric": "[title]"
 					}
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-70.66667,
+					-33.45
 				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					13.045,
-					47.8
-				]
-			},
 			"properties": {
 				"locationID": "cty013",
 				"Location/feature name (incl. historical names)": "Salzburg",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "Austria",
@@ -491,21 +477,20 @@
 						"lyric": "\"You were headed down to Salzburg for the night / All my hair was turning white\""
 					}
 				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					13.045,
+					47.8
+				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-74.07222222,
-					4.71111111
-				]
-			},
 			"properties": {
 				"locationID": "cty014",
 				"Location/feature name (incl. historical names)": "Bogot\u00e1",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "Colombia",
@@ -527,21 +512,20 @@
 						"lyric": "\"And as the sun rises over Colombia / I know we're done for\""
 					}
 				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.07222,
+					4.71111
+				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					19.05138889,
-					47.4925
-				]
-			},
 			"properties": {
 				"locationID": "cty015",
 				"Location/feature name (incl. historical names)": "Budapest",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "Hungary",
@@ -558,26 +542,26 @@
 						"title": "Going to Hungary",
 						"album": "Tropical Depression",
 						"albums": [
-							"Tropical Depression"
+							"Tropical Depression",
+							"Ghana"
 						],
 						"lyric": "\"We touched down in Budapest / Headed straight for the motel room and got undressed\""
 					}
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					19.05139,
+					47.4925
 				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-21.94,
-					64.146667
-				]
-			},
 			"properties": {
 				"locationID": "cty016",
 				"Location/feature name (incl. historical names)": "Reykjavik",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "Iceland",
@@ -599,21 +583,20 @@
 						"lyric": "[title]"
 					}
 				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-21.94,
+					64.14667
+				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					10,
-					53.55
-				]
-			},
 			"properties": {
 				"locationID": "cty017",
 				"Location/feature name (incl. historical names)": "Hamburg",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "Germany",
@@ -635,21 +618,20 @@
 						"lyric": "[title]"
 					}
 				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.0,
+					53.55
+				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					12.375,
-					51.34
-				]
-			},
 			"properties": {
 				"locationID": "cty018",
 				"Location/feature name (incl. historical names)": "Leipzig",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "Germany",
@@ -671,21 +653,20 @@
 						"lyric": "\"And an old army backpack / From the second World War / From a Leipzig second-hand store\""
 					}
 				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					12.375,
+					51.34
+				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					13.405,
-					52.52
-				]
-			},
 			"properties": {
 				"locationID": "cty019",
 				"Location/feature name (incl. historical names)": "Berlin",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "Germany",
@@ -707,21 +688,20 @@
 						"lyric": "\"It's practically a lifestyle in Berlin\""
 					}
 				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					13.405,
+					52.52
+				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					13.74,
-					51.05
-				]
-			},
 			"properties": {
 				"locationID": "cty020",
 				"Location/feature name (incl. historical names)": "Dresden",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "Germany",
@@ -738,26 +718,26 @@
 						"title": "Spent Gladiator 2",
 						"album": "Transcendental Youth",
 						"albums": [
-							"Transcendental Youth"
+							"Transcendental Youth",
+							"The Jordan Lake Sessions: Volumes 1 and 2"
 						],
 						"lyric": "\"Like the clock that ticks in Dresden / When the whole town's been destroyed\""
 					}
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					13.74,
+					51.05
 				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-0.1275,
-					51.50722222
-				]
-			},
 			"properties": {
 				"locationID": "cty021",
 				"Location/feature name (incl. historical names)": "London",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "England",
@@ -787,21 +767,20 @@
 						"lyric": "\"Ridin' Lotus Sevens through the London Streets one day\""
 					}
 				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-0.1275,
+					51.50722
+				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					2.35222222,
-					48.85666667
-				]
-			},
 			"properties": {
 				"locationID": "cty022",
 				"Location/feature name (incl. historical names)": "Paris",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "France",
@@ -818,26 +797,26 @@
 						"title": "Color in Your Cheeks",
 						"album": "All Hail West Texas",
 						"albums": [
-							"All Hail West Texas"
+							"All Hail West Texas",
+							"All Hail West Texas (2013 re-issue)"
 						],
 						"lyric": "\"And they came from Zimbabwe, or from Soviet Georgia / East Saint Louis, or from Paris, or they lived across the street\""
 					}
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					2.35222,
+					48.85667
 				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					13.19138889,
-					32.88722222
-				]
-			},
 			"properties": {
 				"locationID": "cty023",
 				"Location/feature name (incl. historical names)": "Tripoli",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "Libya",
@@ -867,21 +846,20 @@
 						"lyric": "\"And I'm gonna send my belongings all to Tripoli\""
 					}
 				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					13.19139,
+					32.88722
+				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-86.8475,
-					21.16055556
-				]
-			},
 			"properties": {
 				"locationID": "cty024",
 				"Location/feature name (incl. historical names)": "Cancun",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "Mexico",
@@ -903,21 +881,20 @@
 						"lyric": "\"Dreams of retirement in Cancun / Burning ever brighter\""
 					}
 				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-86.8475,
+					21.16056
+				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					35.22555556,
-					31.77888889
-				]
-			},
 			"properties": {
 				"locationID": "cty025",
 				"Location/feature name (incl. historical names)": "Jerusalem",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "Israel",
@@ -934,7 +911,8 @@
 						"title": "This Year",
 						"album": "Dilaudid EP",
 						"albums": [
-							"Dilaudid EP"
+							"Dilaudid EP",
+							"The Sunset Tree"
 						],
 						"lyric": "\"There will be feasting and dancing / In Jerusalem next year / I am going to make it through this year if it kills me\""
 					},
@@ -947,21 +925,20 @@
 						"lyric": "\"High priest of Salem in his robes / Ranting out the coming of the day\""
 					}
 				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					35.22556,
+					31.77889
+				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-76.79305556,
-					17.97138889
-				]
-			},
 			"properties": {
 				"locationID": "cty026",
 				"Location/feature name (incl. historical names)": "Kingston",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "Jamaica",
@@ -978,7 +955,8 @@
 						"title": "Going to Jamaica",
 						"album": "Taking the Dative",
 						"albums": [
-							"Taking the Dative"
+							"Taking the Dative",
+							"Ghana"
 						],
 						"lyric": "\"And what flowers there were around Kingston are blue / I ripped them up from the dry soil and draped them over you\""
 					},
@@ -991,21 +969,20 @@
 						"lyric": "\"On the day that Dennis Brown's lung collapsed / Spring rain was misting down on Kingston\""
 					}
 				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-76.79306,
+					17.97139
+				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					72.8775,
-					19.07611111
-				]
-			},
 			"properties": {
 				"locationID": "cty027",
 				"Location/feature name (incl. historical names)": "Bombay",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "India",
@@ -1027,21 +1004,20 @@
 						"lyric": "\"And the lie ran off and hit itself in the alleys / All across Bombay\""
 					}
 				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					72.8775,
+					19.07611
+				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					106.8275,
-					-6.175
-				]
-			},
 			"properties": {
 				"locationID": "cty028",
 				"Location/feature name (incl. historical names)": "Jakarta",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "Indonesia",
@@ -1063,21 +1039,20 @@
 						"lyric": "\"I've got cinnamon from Jakarta / For making French toast\""
 					}
 				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					106.8275,
+					-6.175
+				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					75.8,
-					26.9
-				]
-			},
 			"properties": {
 				"locationID": "cty029",
 				"Location/feature name (incl. historical names)": "Jaipur",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "India",
@@ -1099,21 +1074,20 @@
 						"lyric": "\"Yeah I came to the gates of the fabled pink city / Hungry and tired and cold\""
 					}
 				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					75.8,
+					26.9
+				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					88.37,
-					22.5675
-				]
-			},
 			"properties": {
 				"locationID": "cty030",
 				"Location/feature name (incl. historical names)": "Calcutta",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "India",
@@ -1135,21 +1109,20 @@
 						"lyric": "\"Clear sky over Calcutta\""
 					}
 				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					88.37,
+					22.5675
+				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					126.99,
-					37.56
-				]
-			},
 			"properties": {
 				"locationID": "cty031",
 				"Location/feature name (incl. historical names)": "Seoul",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "South Korea",
@@ -1171,21 +1144,20 @@
 						"lyric": "\"I saw you coming across the square / And a white bird broke the dark Korean sky\""
 					}
 				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					126.99,
+					37.56
+				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					18.06861111,
-					59.32944444
-				]
-			},
 			"properties": {
 				"locationID": "cty032",
 				"Location/feature name (incl. historical names)": "Stockholm",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "Sweden",
@@ -1207,21 +1179,20 @@
 						"lyric": "\"You went away to Stockholm for a week / You came back with some scratch-mark on your cheeks\""
 					}
 				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.06861,
+					59.32944
+				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					21.01111111,
-					52.23
-				]
-			},
 			"properties": {
 				"locationID": "cty033",
 				"Location/feature name (incl. historical names)": "Warsaw",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "Poland",
@@ -1243,21 +1214,20 @@
 						"lyric": "\"In Warsaw in 1939 / It was alright just to be alive\""
 					}
 				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					21.01111,
+					52.23
+				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					44.51472222,
-					48.70861111
-				]
-			},
 			"properties": {
 				"locationID": "cty034",
 				"Location/feature name (incl. historical names)": "Stalingrad",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "Russia",
@@ -1279,21 +1249,20 @@
 						"lyric": "[title]"
 					}
 				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					44.51472,
+					48.70861
+				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					5.12166667,
-					52.09083333
-				]
-			},
 			"properties": {
 				"locationID": "cty035",
 				"Location/feature name (incl. historical names)": "Utrecht",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "Netherlands",
@@ -1315,21 +1284,20 @@
 						"lyric": "[title]"
 					}
 				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					5.12167,
+					52.09083
+				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-77.0375,
-					-12.06
-				]
-			},
 			"properties": {
 				"locationID": "cty036",
 				"Location/feature name (incl. historical names)": "Lima",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "Peru",
@@ -1351,21 +1319,20 @@
 						"lyric": "\"I remember Lima, I remember the good life\""
 					}
 				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.0375,
+					-12.06
+				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-107.39388889,
-					24.80694444
-				]
-			},
 			"properties": {
 				"locationID": "cty037",
 				"Location/feature name (incl. historical names)": "Culiac\u00e1n",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "Mexico",
@@ -1387,21 +1354,20 @@
 						"lyric": "\"I had his arms tied up behind him / We were together all day / Maybe make Culiac\u00e1n by sunset / Try to anyway\""
 					}
 				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-107.39389,
+					24.80694
+				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-115.46777778,
-					32.66333333
-				]
-			},
 			"properties": {
 				"locationID": "cty038",
 				"Location/feature name (incl. historical names)": "Mexicali",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "Mexico",
@@ -1418,26 +1384,26 @@
 						"title": "Color in Your Cheeks",
 						"album": "All Hail West Texas",
 						"albums": [
-							"All Hail West Texas"
+							"All Hail West Texas",
+							"All Hail West Texas (2013 re-issue)"
 						],
 						"lyric": "\"He drove in from Mexicali, no worse for wear / Money to burn, time to kill\""
 					}
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-115.46778,
+					32.66333
 				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					10.3233,
-					36.8528
-				]
-			},
 			"properties": {
 				"locationID": "cty039",
 				"Location/feature name (incl. historical names)": "Carthage",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "Tunisia",
@@ -1459,21 +1425,20 @@
 						"lyric": "\"They'll do what they were gonna do anyway / But Carthage may rise again one day\""
 					}
 				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.3233,
+					36.8528
+				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					36.3893085,
-					35.4201676
-				]
-			},
 			"properties": {
 				"locationID": "cty040",
 				"Location/feature name (incl. historical names)": "Aulon",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "Syria",
@@ -1495,21 +1460,20 @@
 						"lyric": "[title]"
 					}
 				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					36.38931,
+					35.42017
+				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					7.430052,
-					36.467313
-				]
-			},
 			"properties": {
 				"locationID": "cty041",
 				"Location/feature name (incl. historical names)": "Calama",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "Algeria",
@@ -1531,21 +1495,20 @@
 						"lyric": "[title]"
 					}
 				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					7.43005,
+					36.46731
+				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-122.328247,
-					48.472081
-				]
-			},
 			"properties": {
 				"locationID": "cty042",
 				"Location/feature name (incl. historical names)": "\"four hours north of Portland\"",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "USA",
@@ -1567,21 +1530,55 @@
 						"lyric": "\"And four hours north of Portland, a radio fips on / And some no one from the future remembers that you're gone\""
 					}
 				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.32825,
+					48.47208
+				]
 			}
 		},
 		{
 			"type": "Feature",
+			"properties": {
+				"locationID": "cty043",
+				"Location/feature name (incl. historical names)": "New York City",
+				"Geometry type": "point",
+				"Geography type": "city",
+				"Country": "USA",
+				"Region": "",
+				"State/Province": "New York",
+				"County": "",
+				"City": "New York",
+				"Neighborhood (incl. boroughs)": "",
+				"Street address": "",
+				"Notes": "",
+				"Source": "",
+				"songs": [
+					{
+						"title": "We Do It Different on the West Coast",
+						"album": "Goths",
+						"albums": [
+							"Goths"
+						],
+						"lyric": "\"And Dave went to New York -- I don't care / You can't shut people up once they get back from their Christmas out there\""
+					}
+				]
+			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-1.9025,
-					52.48
+					-74.006,
+					40.7128
 				]
-			},
+			}
+		},
+		{
+			"type": "Feature",
 			"properties": {
 				"locationID": "cty044",
 				"Location/feature name (incl. historical names)": "Birmingham, United Kingdom",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "United Kingdom",
@@ -1603,21 +1600,20 @@
 						"lyric": "\"Me and the ghosts of Birmingham\""
 					}
 				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-1.9025,
+					52.48
+				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-74.129089,
-					40.857552
-				]
-			},
 			"properties": {
 				"locationID": "cty046",
 				"Location/feature name (incl. historical names)": "Passaic",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "USA",
@@ -1639,21 +1635,20 @@
 						"lyric": "\"Tonight Passaic, tomorrow the world\""
 					}
 				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.12909,
+					40.85755
+				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-74.763624,
-					40.223841
-				]
-			},
 			"properties": {
 				"locationID": "cty047",
 				"Location/feature name (incl. historical names)": "Trenton",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "USA",
@@ -1670,26 +1665,26 @@
 						"title": "The Only Thing I Know",
 						"album": "Orange Raja, Blood Royal",
 						"albums": [
-							"Orange Raja, Blood Royal"
+							"Orange Raja, Blood Royal",
+							"Ghana"
 						],
 						"lyric": "\"When you came back from Trenton / All the sparkle was gone\""
 					}
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.76362,
+					40.22384
 				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-115.13638889,
-					36.175
-				]
-			},
 			"properties": {
 				"locationID": "cty048",
 				"Location/feature name (incl. historical names)": "Las Vegas",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "USA",
@@ -1706,7 +1701,8 @@
 						"title": "Star Dusting",
 						"album": "Transmissions to Horace",
 						"albums": [
-							"Transmissions to Horace"
+							"Transmissions to Horace",
+							"Bitter Melon Farm (1999)"
 						],
 						"lyric": "\"Toward the end of our first year in Las Vegas / You looked up from your little corner / And I saw that your face was getting a little brighter\""
 					},
@@ -1714,26 +1710,26 @@
 						"title": "Fault Lines",
 						"album": "All Hail West Texas",
 						"albums": [
-							"All Hail West Texas"
+							"All Hail West Texas",
+							"All Hail West Texas (2013 re-issue)"
 						],
 						"lyric": "\"I'll drink to your health and you drink to mine / As we try to make the money we scored out in Vegas hold out for a while\""
 					}
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-115.13639,
+					36.175
 				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-74.085024,
-					40.817097
-				]
-			},
 			"properties": {
 				"locationID": "cty049",
 				"Location/feature name (incl. historical names)": "East Rutherford",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "USA",
@@ -1750,26 +1746,26 @@
 						"title": "Song for an Old Friend",
 						"album": "The Wheel Method",
 						"albums": [
-							"The Wheel Method"
+							"The Wheel Method",
+							"Bitter Melon Farm (1999)"
 						],
 						"lyric": "\"Good old East Rutherford three thousand miles away\""
 					}
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-74.08502,
+					40.8171
 				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-83.04583333,
-					42.33138889
-				]
-			},
 			"properties": {
 				"locationID": "cty050",
 				"Location/feature name (incl. historical names)": "Detroit",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "USA",
@@ -1791,21 +1787,20 @@
 						"lyric": "\"Two blinded in Detroit!\""
 					}
 				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-83.04583,
+					42.33139
+				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-93.76416667,
-					44.61888889
-				]
-			},
 			"properties": {
 				"locationID": "cty051",
 				"Location/feature name (incl. historical names)": "Belle Plaine",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "USA",
@@ -1827,21 +1822,20 @@
 						"lyric": "\"We don't get cable in Belle Plaine\""
 					}
 				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-93.76417,
+					44.61889
+				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-68.7675,
-					44.80305556
-				]
-			},
 			"properties": {
 				"locationID": "cty052",
 				"Location/feature name (incl. historical names)": "Bangor",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "USA",
@@ -1858,26 +1852,26 @@
 						"title": "Going to Bangor",
 						"album": "You and What Army",
 						"albums": [
-							"You and What Army"
+							"You and What Army",
+							"Bitter Melon Farm"
 						],
 						"lyric": "[title]"
 					}
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-68.7675,
+					44.80306
 				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-71.05777778,
-					42.36027778
-				]
-			},
 			"properties": {
 				"locationID": "cty053",
 				"Location/feature name (incl. historical names)": "Boston",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "USA",
@@ -1899,21 +1893,20 @@
 						"lyric": "\"Head off to camp in Boston / Come up through the independents\""
 					}
 				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.05778,
+					42.36028
+				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-122.68194444,
-					45.52
-				]
-			},
 			"properties": {
 				"locationID": "cty054",
 				"Location/feature name (incl. historical names)": "Portland",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "USA",
@@ -1938,7 +1931,8 @@
 						"title": "Damn These Vampires",
 						"album": "All Eternals Deck",
 						"albums": [
-							"All Eternals Deck"
+							"All Eternals Deck",
+							"The Jordan Lake Sessions: Volumes 1 and 2"
 						],
 						"lyric": "[see comments on fan wiki]"
 					},
@@ -1959,27 +1953,26 @@
 						"lyric": "\"If you find yourself in Portland / Ask for me\""
 					}
 				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.68194,
+					45.52
+				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-78.77638889,
-					40.37222222
-				]
-			},
 			"properties": {
 				"locationID": "cty055",
 				"Location/feature name (incl. historical names)": "Ehrenfeld",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "USA",
 				"Region": "",
 				"State/Province": "Pennsylvania",
-				"County": " ",
+				"County": "",
 				"City": "Ehrenfeld",
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
@@ -1995,21 +1988,20 @@
 						"lyric": "\"Work until I drop / Drift from place to place / Ehrenfeld, Pennsylvania scratched into my face\""
 					}
 				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.77639,
+					40.37222
+				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-84.5125,
-					39.1
-				]
-			},
 			"properties": {
 				"locationID": "cty056",
 				"Location/feature name (incl. historical names)": "Cincinnati",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "USA",
@@ -2031,21 +2023,20 @@
 						"lyric": "\"And I am never going back to Cincinnati\""
 					}
 				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-84.5125,
+					39.1
+				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-95.93722222,
-					36.13138889
-				]
-			},
 			"properties": {
 				"locationID": "cty057",
 				"Location/feature name (incl. historical names)": "Tulsa",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "USA",
@@ -2062,32 +2053,32 @@
 						"title": "Tulsa Imperative",
 						"album": "[unreleased]",
 						"albums": [
-							"[unreleased]"
+							"[unreleased]",
+							"The Jordan Lake Sessions: Volume 5"
 						],
 						"lyric": "[title]"
 					}
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-95.93722,
+					36.13139
 				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-77.97194444,
-					35.37777778
-				]
-			},
 			"properties": {
 				"locationID": "cty058",
 				"Location/feature name (incl. historical names)": "Goldsboro",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "USA",
 				"Region": "",
 				"State/Province": "North Carolina",
-				"County": " ",
+				"County": "",
 				"City": "Goldsboro",
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
@@ -2103,21 +2094,20 @@
 						"lyric": "[title]"
 					}
 				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.97194,
+					35.37778
+				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-81.66972222,
-					41.48222222
-				]
-			},
 			"properties": {
 				"locationID": "cty059",
 				"Location/feature name (incl. historical names)": "Cleveland",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "USA",
@@ -2134,26 +2124,26 @@
 						"title": "Going to Cleveland",
 						"album": "Transmissions to Horace",
 						"albums": [
-							"Transmissions to Horace"
+							"Transmissions to Horace",
+							"Bitter Melon Farm (1999)"
 						],
 						"lyric": "\"And you punish me with pity / But I'm going to Cleveland\""
 					}
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.66972,
+					41.48222
 				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-106.61,
-					35.11083333
-				]
-			},
 			"properties": {
 				"locationID": "cty060",
 				"Location/feature name (incl. historical names)": "Albuquerque",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "USA",
@@ -2170,32 +2160,32 @@
 						"title": "Distant Stations",
 						"album": "All Hail West Texas",
 						"albums": [
-							"All Hail West Texas"
+							"All Hail West Texas",
+							"All Hail West Texas (2013 re-issue)"
 						],
 						"lyric": "\"I sang old songs from nowhere / Los Angeles / Albuquerque\""
 					}
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-106.61,
+					35.11083
 				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-75.83305556,
-					36.38138889
-				]
-			},
 			"properties": {
 				"locationID": "cty061",
 				"Location/feature name (incl. historical names)": "Corolla",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "USA",
 				"Region": "",
 				"State/Province": "North Carolina",
-				"County": " ",
+				"County": "",
 				"City": "Corolla",
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
@@ -2211,21 +2201,20 @@
 						"lyric": "[title]"
 					}
 				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.83306,
+					36.38139
+				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-106.48861111,
-					31.75916667
-				]
-			},
 			"properties": {
 				"locationID": "cty062",
 				"Location/feature name (incl. historical names)": "El Paso",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "USA",
@@ -2247,21 +2236,20 @@
 						"lyric": "\"Born down in El Paso, where the tumbleweeds blow / To the middleweight champ of all Mexico\""
 					}
 				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-106.48861,
+					31.75917
+				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-95.38305556,
-					29.76277778
-				]
-			},
 			"properties": {
 				"locationID": "cty063",
 				"Location/feature name (incl. historical names)": "Houston",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "USA",
@@ -2283,21 +2271,20 @@
 						"lyric": "\"Sit on my porch in Houston / Let the good times dance across my mind\""
 					}
 				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-95.38306,
+					29.76278
+				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-96.80888889,
-					32.77916667
-				]
-			},
 			"properties": {
 				"locationID": "cty064",
 				"Location/feature name (incl. historical names)": "Dallas",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "USA",
@@ -2335,21 +2322,20 @@
 						"lyric": "\"Going to Dallas / As far as anybody knows\""
 					}
 				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-96.80889,
+					32.77917
+				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-97.12916667,
-					33.21638889
-				]
-			},
 			"properties": {
 				"locationID": "cty065",
 				"Location/feature name (incl. historical names)": "Denton",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "USA",
@@ -2366,26 +2352,26 @@
 						"title": "The Best Ever Death Metal Band in Denton",
 						"album": "All Hail West Texas",
 						"albums": [
-							"All Hail West Texas"
+							"All Hail West Texas",
+							"All Hail West Texas (2013 re-issue)"
 						],
 						"lyric": "\"The best ever death metal band out of Denton / Were a couple of guys, who'd been friends since grade school\""
 					}
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.12917,
+					33.21639
 				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-97.74305556,
-					30.26722222
-				]
-			},
 			"properties": {
 				"locationID": "cty066",
 				"Location/feature name (incl. historical names)": "Austin",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "USA",
@@ -2402,26 +2388,26 @@
 						"title": "Source Decay",
 						"album": "All Hail West Texas",
 						"albums": [
-							"All Hail West Texas"
+							"All Hail West Texas",
+							"All Hail West Texas (2013 re-issue)"
 						],
 						"lyric": "\"Once a week / I make the drive / two hours east / to check the Austin post office box\""
 					}
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.74306,
+					30.26722
 				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-97.48444444,
-					25.93027778
-				]
-			},
 			"properties": {
 				"locationID": "cty067",
 				"Location/feature name (incl. historical names)": "Brownsville",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "USA",
@@ -2443,27 +2429,26 @@
 						"lyric": "\"Why do we come down to Brownsville / Year after year after year\""
 					}
 				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.48444,
+					25.93028
+				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-76.87555556,
-					40.26972222
-				]
-			},
 			"properties": {
 				"locationID": "cty068",
 				"Location/feature name (incl. historical names)": "Harrisburg",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "USA",
 				"Region": "",
 				"State/Province": "Pennsylvania",
-				"County": " ",
+				"County": "",
 				"City": "Harrisburg",
 				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
@@ -2474,29 +2459,65 @@
 						"title": "Noctifer Birmingham",
 						"album": "Fast Forward 2",
 						"albums": [
-							"Fast Forward 2"
+							"Fast Forward 2",
+							"Ghana"
 						],
 						"lyric": "\"And then I came down from Harrisburg, Pennsylvania\""
 					}
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-76.87556,
+					40.26972
 				]
 			}
 		},
 		{
 			"type": "Feature",
+			"properties": {
+				"locationID": "cty069",
+				"Location/feature name (incl. historical names)": "San Juan",
+				"Geometry type": "point",
+				"Geography type": "city",
+				"Country": "USA",
+				"Region": "",
+				"State/Province": "Puerto Rico",
+				"County": "",
+				"City": "San Juan",
+				"Neighborhood (incl. boroughs)": "",
+				"Street address": "",
+				"Notes": "",
+				"Source": "",
+				"songs": [
+					{
+						"title": "Stabbed to Death Outside San Juan",
+						"album": "Beat the Champ",
+						"albums": [
+							"Beat the Champ",
+							"The Jordan Lake Sessions: Volumes 1 and 2"
+						],
+						"lyric": "\"The winter's wet, and the summer's hot / Take a match in Puerto Rico, why not\""
+					}
+				]
+			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					12.482778,
-					41.893333
+					-66.06389,
+					18.40639
 				]
-			},
+			}
+		},
+		{
+			"type": "Feature",
 			"properties": {
 				"locationID": "cty070",
 				"Location/feature name (incl. historical names)": "Rome",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
-				"Country": " ",
+				"Country": "",
 				"Region": "",
 				"State/Province": "",
 				"County": "",
@@ -2515,21 +2536,20 @@
 						"lyric": "\"And blood will run through the streets of Rome today / And roll across the ocean\""
 					}
 				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					12.48278,
+					41.89333
+				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-86.809444,
-					33.5175
-				]
-			},
 			"properties": {
 				"locationID": "cty071",
 				"Location/feature name (incl. historical names)": "Birmingham, Alabama",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "USA",
@@ -2546,26 +2566,26 @@
 						"title": "Noctifer Birmingham",
 						"album": "Fast Forward 2",
 						"albums": [
-							"Fast Forward 2"
+							"Fast Forward 2",
+							"Ghana"
 						],
 						"lyric": "\"I could feel your bones shivering way down there in Birmingham\""
 					}
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-86.80944,
+					33.5175
 				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-122.33305556,
-					47.60972222
-				]
-			},
 			"properties": {
 				"locationID": "cty072",
 				"Location/feature name (incl. historical names)": "Seattle",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "USA",
@@ -2595,21 +2615,20 @@
 						"lyric": "\"Wheels down in Seattle / Three years ago in this town\""
 					}
 				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.33306,
+					47.60972
+				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-122.09111111,
-					47.91916667
-				]
-			},
 			"properties": {
 				"locationID": "cty073",
 				"Location/feature name (incl. historical names)": "Snohomish",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "USA",
@@ -2626,26 +2645,26 @@
 						"title": "Until I Am Whole",
 						"album": "Transcendental Youth",
 						"albums": [
-							"Transcendental Youth"
+							"Transcendental Youth",
+							"The Jordan Lake Sessions: Volumes 1 and 2"
 						],
 						"lyric": "\"Sunset on Snohomish / Burn the tree line down\""
 					}
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.09111,
+					47.91917
 				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-111.66083333,
-					40.24444444
-				]
-			},
 			"properties": {
 				"locationID": "cty074",
 				"Location/feature name (incl. historical names)": "Provo",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "USA",
@@ -2662,26 +2681,26 @@
 						"title": "The Mess Inside",
 						"album": "All Hail West Texas",
 						"albums": [
-							"All Hail West Texas"
+							"All Hail West Texas",
+							"All Hail West Texas (2013 re-issue)"
 						],
 						"lyric": "\"We took a weekend, drove to Provo / the snow was white and fluffy\"\""
 					}
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-111.66083,
+					40.24444
 				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-89.97111111,
-					35.1175
-				]
-			},
 			"properties": {
 				"locationID": "cty075",
 				"Location/feature name (incl. historical names)": "Memphis",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "USA",
@@ -2706,26 +2725,26 @@
 						"title": "Going to Tennessee",
 						"album": "Why You All So Thief?",
 						"albums": [
-							"Why You All So Thief?"
+							"Why You All So Thief?",
+							"Protein Source of the Future\u2026Now!"
 						],
 						"lyric": "\"And the sun is setting on Memphis\""
 					}
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-89.97111,
+					35.1175
 				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-102.1,
-					32
-				]
-			},
 			"properties": {
 				"locationID": "cty076",
 				"Location/feature name (incl. historical names)": "Midland",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "USA",
@@ -2747,21 +2766,20 @@
 						"lyric": "[title]"
 					}
 				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-102.1,
+					32.0
+				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-97.15583333,
-					31.55138889
-				]
-			},
 			"properties": {
 				"locationID": "cty077",
 				"Location/feature name (incl. historical names)": "Waco",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "USA",
@@ -2783,21 +2801,20 @@
 						"lyric": "[title]"
 					}
 				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.15583,
+					31.55139
+				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-117.69,
-					34.01777778
-				]
-			},
 			"properties": {
 				"locationID": "cty078",
 				"Location/feature name (incl. historical names)": "Chino",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "USA",
@@ -2822,26 +2839,26 @@
 						"title": "Pigs That Ran Straightaway into the Water, Triumph Of",
 						"album": "We Shall All Be Healed",
 						"albums": [
-							"We Shall All Be Healed"
+							"We Shall All Be Healed",
+							"The Jordan Lake Sessions: Volumes 1 and 2"
 						],
 						"lyric": "\"I come from Chino where the asphalt sprouts\""
 					}
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-117.69,
+					34.01778
 				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-117.69805556,
-					33.46722222
-				]
-			},
 			"properties": {
 				"locationID": "cty079",
 				"Location/feature name (incl. historical names)": "Dana Point",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "USA",
@@ -2863,21 +2880,20 @@
 						"lyric": "\"And Gail used to come around and trash the joint / But she moved off to Dana Point\""
 					}
 				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-117.69806,
+					33.46722
+				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-110.92638889,
-					32.22166667
-				]
-			},
 			"properties": {
 				"locationID": "cty080",
 				"Location/feature name (incl. historical names)": "Tucson",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "USA",
@@ -2899,21 +2915,20 @@
 						"lyric": "[title]"
 					}
 				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-110.92639,
+					32.22167
+				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-117.71972222,
-					34.11
-				]
-			},
 			"properties": {
 				"locationID": "cty081",
 				"Location/feature name (incl. historical names)": "Claremont",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "USA",
@@ -2930,26 +2945,26 @@
 						"title": "Pigs That Ran Straightaway into the Water, Triumph Of",
 						"album": "We Shall All Be Healed",
 						"albums": [
-							"We Shall All Be Healed"
+							"We Shall All Be Healed",
+							"The Jordan Lake Sessions: Volumes 1 and 2"
 						],
 						"lyric": "\"And even if I have to go to Claremont / Well I guess I'll just have to go to Claremont\""
 					}
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-117.71972,
+					34.11
 				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-88.04305556,
-					30.69444444
-				]
-			},
 			"properties": {
 				"locationID": "cty082",
 				"Location/feature name (incl. historical names)": "Mobile",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "USA",
@@ -2971,21 +2986,20 @@
 						"lyric": "\"I'm on a balcony in Mobile, Alabama, waiting for the wind to throw me down\""
 					}
 				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-88.04306,
+					30.69444
+				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-86.27916667,
-					32.36166667
-				]
-			},
 			"properties": {
 				"locationID": "cty083",
 				"Location/feature name (incl. historical names)": "Montgomery",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "USA",
@@ -2993,7 +3007,7 @@
 				"State/Province": "Alabama",
 				"County": "",
 				"City": "Montgomery",
-				"Neighborhood (incl. boroughs)": " ",
+				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
 				"Source": "",
@@ -3007,21 +3021,20 @@
 						"lyric": "\"Let me take you down / Let me ease you around Montgomery\""
 					}
 				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-86.27917,
+					32.36167
+				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					121.5625,
-					25.0375
-				]
-			},
 			"properties": {
 				"locationID": "cty084",
 				"Location/feature name (incl. historical names)": "Taipei",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "Taiwan",
@@ -3038,7 +3051,8 @@
 						"title": "Color in Your Cheeks",
 						"album": "All Hail West Texas",
 						"albums": [
-							"All Hail West Texas"
+							"All Hail West Texas",
+							"All Hail West Texas (2013 re-issue)"
 						],
 						"lyric": "\"She came in on the red-eye to Dallas-Fort Worth / All the way from sunny Taipei\""
 					},
@@ -3051,21 +3065,20 @@
 						"lyric": "\"Leave home feeling empty, change planes in Taipei\""
 					}
 				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5625,
+					25.0375
+				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					100.49416667,
-					13.7525
-				]
-			},
 			"properties": {
 				"locationID": "cty085",
 				"Location/feature name (incl. historical names)": "Bangkok",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "Thailand",
@@ -3082,26 +3095,26 @@
 						"title": "Source Decay",
 						"album": "All Hail West Texas",
 						"albums": [
-							"All Hail West Texas"
+							"All Hail West Texas",
+							"All Hail West Texas (2013 re-issue)"
 						],
 						"lyric": "\"I remember the train headed south out of Bangkok / Down toward the water\""
 					}
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					100.49417,
+					13.7525
 				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-117.75583333,
-					34.06083333
-				]
-			},
 			"properties": {
 				"locationID": "cty086",
 				"Location/feature name (incl. historical names)": "Pomona",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "USA",
@@ -3123,21 +3136,20 @@
 						"lyric": "\"I heard they had a problem with some skinheads / At a show in a machine shop in Pomona\""
 					}
 				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-117.75583,
+					34.06083
+				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-122.366667,
-					40.583333
-				]
-			},
 			"properties": {
 				"locationID": "cty087",
 				"Location/feature name (incl. historical names)": "Redding",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "USA",
@@ -3159,21 +3171,20 @@
 						"lyric": "\"I thought of you up in Canada as the lightning storms lit up / All downtown Redding\""
 					}
 				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.36667,
+					40.58333
+				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-117.6510,
-					34.0633
-				]
-			},
 			"properties": {
 				"locationID": "cty088",
 				"Location/feature name (incl. historical names)": "Ontario, California",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "USA",
@@ -3203,21 +3214,20 @@
 						"lyric": "\"This used to be the place to go / Still draw pretty good in Ontario\""
 					}
 				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-117.651,
+					34.0633
+				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-116.5453,
-					33.8303
-				]
-			},
 			"properties": {
 				"locationID": "cty089",
 				"Location/feature name (incl. historical names)": "Palm Springs",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "USA",
@@ -3225,7 +3235,7 @@
 				"State/Province": "California",
 				"County": "",
 				"City": "Palm Springs",
-				"Neighborhood (incl. boroughs)": " ",
+				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
 				"Source": "",
@@ -3234,26 +3244,26 @@
 						"title": "Raja Vocative",
 						"album": "Orange Raja, Blood Royal",
 						"albums": [
-							"Orange Raja, Blood Royal"
+							"Orange Raja, Blood Royal",
+							"Ghana"
 						],
 						"lyric": "\"I could hear you singing / From all the way across the country in Palm Springs\""
 					}
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-116.54528,
+					33.83028
 				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-118.695,
-					34.035
-				]
-			},
 			"properties": {
 				"locationID": "cty090",
 				"Location/feature name (incl. historical names)": "Malibu",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "USA",
@@ -3278,7 +3288,8 @@
 						"title": "Teenage World",
 						"album": "Transmissions to Horace",
 						"albums": [
-							"Transmissions to Horace"
+							"Transmissions to Horace",
+							"Bitter Melon Farm (1999)"
 						],
 						"lyric": "\"I'm gonna take this rabbit into Malibu\""
 					},
@@ -3294,26 +3305,26 @@
 						"title": "Going to Malibu",
 						"album": "Chile de \u00c1rbol",
 						"albums": [
-							"Chile de \u00c1rbol"
+							"Chile de \u00c1rbol",
+							"Protein Source of the Future\u2026Now!"
 						],
 						"lyric": "[title]"
 					}
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-118.695,
+					34.035
 				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-118.08333333,
-					33.90694444
-				]
-			},
 			"properties": {
 				"locationID": "cty091",
 				"Location/feature name (incl. historical names)": "Norwalk",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "USA",
@@ -3338,26 +3349,26 @@
 						"title": "Chino Love Song 1979",
 						"album": "Taking the Dative",
 						"albums": [
-							"Taking the Dative"
+							"Taking the Dative",
+							"Ghana"
 						],
 						"lyric": "\"And it made me remember the sunflower that popped up outside my window one / Morning in Norwalk\""
 					}
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-118.08333,
+					33.90694
 				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-117.96027778,
-					33.77888889
-				]
-			},
 			"properties": {
 				"locationID": "cty092",
 				"Location/feature name (incl. historical names)": "Garden Grove",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "USA",
@@ -3365,7 +3376,7 @@
 				"State/Province": "California",
 				"County": "",
 				"City": "Garden Grove",
-				"Neighborhood (incl. boroughs)": " ",
+				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
 				"Source": "",
@@ -3374,7 +3385,8 @@
 						"title": "The Young Thousands",
 						"album": "We Shall All Be Healed",
 						"albums": [
-							"We Shall All Be Healed"
+							"We Shall All Be Healed",
+							"The Jordan Lake Sessions: Volumes 3 and 4"
 						],
 						"lyric": "\"You drive east from the ocean with both hands tight on the wheel / And you go past Garden Grove as the pleasure index rises\""
 					},
@@ -3387,21 +3399,20 @@
 						"lyric": "\"Home again / Home again / Garden Grove / Garden Grove\""
 					}
 				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-117.96028,
+					33.77889
+				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-118.25,
-					34.05
-				]
-			},
 			"properties": {
 				"locationID": "cty093",
 				"Location/feature name (incl. historical names)": "Los Angeles",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "USA",
@@ -3418,7 +3429,8 @@
 						"title": "Distant Stations",
 						"album": "All Hail West Texas",
 						"albums": [
-							"All Hail West Texas"
+							"All Hail West Texas",
+							"All Hail West Texas (2013 re-issue)"
 						],
 						"lyric": "\"I sang old songs from nowhere / Los Angeles / Albuquerque\""
 					},
@@ -3426,7 +3438,8 @@
 						"title": "Shelved",
 						"album": "Goths",
 						"albums": [
-							"Goths"
+							"Goths",
+							"The Jordan Lake Sessions: Volumes 3 and 4"
 						],
 						"lyric": "\"Don't want to write songs with this clown they set me up with in a Los Angeles rehearsal studio\""
 					},
@@ -3447,21 +3460,20 @@
 						"lyric": "\"Insane in a studio in Los Angeles / Rudderless and hungry and high\""
 					}
 				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-118.25,
+					34.05
+				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-84.25333333,
-					30.455
-				]
-			},
 			"properties": {
 				"locationID": "cty094",
 				"Location/feature name (incl. historical names)": "Tallahassee",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "USA",
@@ -3486,26 +3498,26 @@
 						"title": "Tallahassee",
 						"album": "Tallahassee",
 						"albums": [
-							"Tallahassee"
+							"Tallahassee",
+							"The Jordan Lake Sessions: Volumes 1 and 2"
 						],
 						"lyric": "[title]"
 					}
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-84.25333,
+					30.455
 				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-82.45861111,
-					27.9475
-				]
-			},
 			"properties": {
 				"locationID": "cty095",
 				"Location/feature name (incl. historical names)": "Tampa",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "USA",
@@ -3535,21 +3547,20 @@
 						"lyric": "\"Bad luck comes in from Tampa\""
 					}
 				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-82.45861,
+					27.9475
+				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-117.91861111,
-					34.05666667
-				]
-			},
 			"properties": {
 				"locationID": "cty096",
 				"Location/feature name (incl. historical names)": "West Covina",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "USA",
@@ -3579,21 +3590,20 @@
 						"lyric": "\"In the secret caverns underneath West Covina / Half desperate for peace\""
 					}
 				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-117.91861,
+					34.05667
+				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-80.27861111,
-					27.17111111
-				]
-			},
 			"properties": {
 				"locationID": "cty097",
 				"Location/feature name (incl. historical names)": "Palm City",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "USA",
@@ -3610,26 +3620,26 @@
 						"title": "Wild Palm City (AKA Within You, Without You)",
 						"album": "Back to the Egg, Asshole",
 						"albums": [
-							"Back to the Egg, Asshole"
+							"Back to the Egg, Asshole",
+							"Ghana"
 						],
 						"lyric": "[title]"
 					}
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-80.27861,
+					27.17111
 				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-121.89055556,
-					37.33611111
-				]
-			},
 			"properties": {
 				"locationID": "cty098",
 				"Location/feature name (incl. historical names)": "San Jose",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "USA",
@@ -3651,21 +3661,20 @@
 						"lyric": "\"I'm going to see you in San Jose / And I'm going to take you out for good\""
 					}
 				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-121.89056,
+					37.33611
+				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-119.7,
-					34.41666667
-				]
-			},
 			"properties": {
 				"locationID": "cty099",
 				"Location/feature name (incl. historical names)": "Santa Barbara",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "USA",
@@ -3673,7 +3682,7 @@
 				"State/Province": "California",
 				"County": "",
 				"City": "Santa Barbara",
-				"Neighborhood (incl. boroughs)": " ",
+				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
 				"Source": "https://datahub.io/core/geo-countries#resource-countries",
@@ -3687,21 +3696,20 @@
 						"lyric": "\"I flew in / From Pennsylvania / When I heard the hour was coming fast / And I docked in Santa Barbara\""
 					}
 				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-119.7,
+					34.41667
+				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-117.3,
-					34.1
-				]
-			},
 			"properties": {
 				"locationID": "cty100",
 				"Location/feature name (incl. historical names)": "San Bernardino",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "USA",
@@ -3709,7 +3717,7 @@
 				"State/Province": "California",
 				"County": "",
 				"City": "San Bernardino",
-				"Neighborhood (incl. boroughs)": " ",
+				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
 				"Source": "",
@@ -3731,21 +3739,20 @@
 						"lyric": "\"And the day was bright and fine / And the highway sign said, \"San Bernardino welcomes you\""
 					}
 				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-117.3,
+					34.1
+				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-122.41638889,
-					37.7775
-				]
-			},
 			"properties": {
 				"locationID": "cty101",
 				"Location/feature name (incl. historical names)": "San Francisco",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "USA",
@@ -3753,7 +3760,7 @@
 				"State/Province": "California",
 				"County": "",
 				"City": "San Francisco",
-				"Neighborhood (incl. boroughs)": " ",
+				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "",
 				"Source": "https://datahub.io/core/geo-countries#resource-countries",
@@ -3767,21 +3774,20 @@
 						"lyric": "\"I feel like half my friends have moved to San Francisco\""
 					}
 				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.41639,
+					37.7775
+				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-86.15805556,
-					39.76861111
-				]
-			},
 			"properties": {
 				"locationID": "cty102",
 				"Location/feature name (incl. historical names)": "Indianapolis",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "USA",
@@ -3803,21 +3809,20 @@
 						"lyric": "\"Tonight Indianapolis, tomorrow the flood\""
 					}
 				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-86.15806,
+					39.76861
+				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-90.08055556,
-					29.96666667
-				]
-			},
 			"properties": {
 				"locationID": "cty103",
 				"Location/feature name (incl. historical names)": "New Orleans",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "USA",
@@ -3834,26 +3839,26 @@
 						"title": "The Mess Inside",
 						"album": "All Hail West Texas",
 						"albums": [
-							"All Hail West Texas"
+							"All Hail West Texas",
+							"All Hail West Texas (2013 re-issue)"
 						],
 						"lyric": "\"We went down to New Orleans one weekend in the spring / Looked hard for what we'd lost\""
 					}
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-90.08056,
+					29.96667
 				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-91.178611,
-					30.4475
-				]
-			},
 			"properties": {
 				"locationID": "cty104",
 				"Location/feature name (incl. historical names)": "Baton Rouge",
-				"COMPLETE": "TRUE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "USA",
@@ -3875,21 +3880,20 @@
 						"lyric": "\"Look on every lamppost / From here to Baton Rouge\""
 					}
 				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-91.17861,
+					30.4475
+				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-79.347015,
-					43.651070
-				]
-			},
 			"properties": {
 				"locationID": "cty105",
 				"Location/feature name (incl. historical names)": "Toronto",
-				"COMPLETE": "TRUE",
 				"Geometry type": "point",
 				"Geography type": "city",
 				"Country": "Canada",
@@ -3908,8 +3912,41 @@
 						"albums": [
 							"Beat the Champ"
 						],
-						"lyric": "\"Two blinded in Detroit!\""
+						"lyric": "\"War in Ontario! Dead before the bell\""
 					}
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.34701,
+					43.65107
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"locationID": "cty106",
+				"Location/feature name (incl. historical names)": "Clearlake, CA",
+				"Geometry type": "point",
+				"Geography type": "city",
+				"Country": "USA",
+				"Region": "",
+				"State/Province": "California",
+				"County": "",
+				"City": "Clearlake",
+				"Neighborhood (incl. boroughs)": "",
+				"Street address": "",
+				"Notes": "",
+				"Source": "",
+				"songs": []
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.6264,
+					38.9582
 				]
 			}
 		}

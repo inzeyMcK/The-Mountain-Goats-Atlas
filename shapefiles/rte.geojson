@@ -3,23 +3,9 @@
 	"features": [
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "LineString",
-				"coordinates": [
-					[
-						-82.4089,
-						23.0047
-					],
-					[
-						-80.287,
-						25.7959
-					]
-				]
-			},
 			"properties": {
 				"locationID": "rte001",
 				"Location/feature name (incl. historical names)": "Havana - Miami international airport",
-				"COMPLETE": "TRUE",
 				"Geometry type": "line",
 				"Geography type": "route",
 				"Country": "",
@@ -36,15 +22,56 @@
 						"title": "International Small Arms Traffic Blues",
 						"album": "Tallahassee",
 						"albums": [
-							"Tallahassee"
+							"Tallahassee",
+							"The Jordan Lake Sessions: Volumes 1 and 2"
 						],
 						"lyric": "\"My love is like a Cuban plane flying from Havana / Up the Florida coast to the 'Glades / Soviet made\""
 					}
+				]
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						-82.4089,
+						23.0047
+					],
+					[
+						-80.287,
+						25.7959
+					]
 				]
 			}
 		},
 		{
 			"type": "Feature",
+			"properties": {
+				"locationID": "rte002",
+				"Location/feature name (incl. historical names)": "Tampa to Tallahassee Greyhound Bus Station",
+				"Geometry type": "line",
+				"Geography type": "route",
+				"Country": "USA",
+				"Region": "",
+				"State/Province": "Florida",
+				"County": "",
+				"City": "Tampa-Inglis-Cedar Key-Tallahassee greyhound station",
+				"Neighborhood (incl. boroughs)": "",
+				"Street address": "",
+				"Notes": "route on google maps",
+				"Source": "",
+				"songs": [
+					{
+						"title": "See America Right",
+						"album": "See America Right (single)",
+						"albums": [
+							"See America Right (single)",
+							"Tallahassee",
+							"The Jordan Lake Sessions: Volumes 1 and 2"
+						],
+						"lyric": "[see entire song]"
+					}
+				]
+			},
 			"geometry": {
 				"type": "LineString",
 				"coordinates": [
@@ -33354,36 +33381,36 @@
 						0
 					]
 				]
-			},
+			}
+		},
+		{
+			"type": "Feature",
 			"properties": {
-				"locationID": "rte002",
-				"Location/feature name (incl. historical names)": "Tampa to Tallahassee Greyhound Bus Station",
-				"COMPLETE": "FALSE",
+				"locationID": "rte003",
+				"Location/feature name (incl. historical names)": "Francisquito Ave to Grand Olympic Auditorium",
 				"Geometry type": "line",
 				"Geography type": "route",
 				"Country": "USA",
 				"Region": "",
-				"State/Province": "Florida",
+				"State/Province": "California",
 				"County": "",
-				"City": "Tampa-Inglis-Cedar Key-Tallahassee greyhound station",
-				"Neighborhood (incl. boroughs)": "",
+				"City": "La Puente - Los Angeles",
+				"Neighborhood (incl. boroughs)": "Francisquito - Glenshaw - Hwy 60 - Grand Olympic Auditorium",
 				"Street address": "",
 				"Notes": "route on google maps",
 				"Source": "",
 				"songs": [
 					{
-						"title": "See America Right",
-						"album": "See America Right (single)",
+						"title": "Southwestern Territory",
+						"album": "Beat the Champ",
 						"albums": [
-							"See America Right (single)"
+							"Beat the Champ",
+							"The Jordan Lake Sessions: Volumes 1 and 2"
 						],
-						"lyric": "[see entire song]"
+						"lyric": "\"Feel like the last person alive / Francisquito to Glenshaw Drive\""
 					}
 				]
-			}
-		},
-		{
-			"type": "Feature",
+			},
 			"geometry": {
 				"type": "LineString",
 				"coordinates": [
@@ -37823,36 +37850,35 @@
 						0
 					]
 				]
-			},
+			}
+		},
+		{
+			"type": "Feature",
 			"properties": {
-				"locationID": "rte003",
-				"Location/feature name (incl. historical names)": "Francisquito Ave to Grand Olympic Auditorium",
-				"COMPLETE": "TRUE",
+				"locationID": "rte004",
+				"Location/feature name (incl. historical names)": "Grinnell to Galesburg",
 				"Geometry type": "line",
 				"Geography type": "route",
 				"Country": "USA",
 				"Region": "",
-				"State/Province": "California",
+				"State/Province": "Iowa - Illinois",
 				"County": "",
-				"City": "La Puente - Los Angeles",
-				"Neighborhood (incl. boroughs)": "Francisquito - Glenshaw - Hwy 60 - Grand Olympic Auditorium",
+				"City": "Grinnell, IA - Burlington, IA - Galesburg, IL",
+				"Neighborhood (incl. boroughs)": "",
 				"Street address": "",
 				"Notes": "route on google maps",
 				"Source": "",
 				"songs": [
 					{
-						"title": "Southwestern Territory",
-						"album": "Beat the Champ",
+						"title": "Twin Human Highway Flares",
+						"album": "Full Force Galesburg",
 						"albums": [
-							"Beat the Champ"
+							"Full Force Galesburg"
 						],
-						"lyric": "\"Feel like the last person alive / Francisquito to Glenshaw Drive\""
+						"lyric": "\"As we drove across the river into Western Illinois / And on the railroad bridge, half a mile of solid steel\""
 					}
 				]
-			}
-		},
-		{
-			"type": "Feature",
+			},
 			"geometry": {
 				"type": "LineString",
 				"coordinates": [
@@ -65707,36 +65733,36 @@
 						0
 					]
 				]
-			},
-			"properties": {
-				"locationID": "rte004",
-				"Location/feature name (incl. historical names)": "Grinnell to Galesburg",
-				"COMPLETE": "FALSE",
-				"Geometry type": "line",
-				"Geography type": "route",
-				"Country": "USA",
-				"Region": "",
-				"State/Province": "Iowa - Illinois",
-				"County": "",
-				"City": "Grinnell, IA - Burlington, IA - Galesburg, IL",
-				"Neighborhood (incl. boroughs)": "",
-				"Street address": "",
-				"Notes": "route on google maps",
-				"Source": "",
-				"songs": [
-					{
-						"title": "Twin Human Highway Flares",
-						"album": "Full Force Galesburg",
-						"albums": [
-							"Full Force Galesburg"
-						],
-						"lyric": "\"As we drove across the river into Western Illinois / And on the railroad bridge, half a mile of solid steel\""
-					}
-				]
 			}
 		},
 		{
 			"type": "Feature",
+			"properties": {
+				"locationID": "rte005",
+				"Location/feature name (incl. historical names)": "Throgs Neck Bridge to Port Washington",
+				"Geometry type": "line",
+				"Geography type": "route",
+				"Country": "USA",
+				"Region": "",
+				"State/Province": "New York",
+				"County": "",
+				"City": "New York - Port Washington",
+				"Neighborhood (incl. boroughs)": "",
+				"Street address": "",
+				"Notes": "",
+				"Source": "route on google maps",
+				"songs": [
+					{
+						"title": "Going to Port Washington",
+						"album": "The Wedding Record",
+						"albums": [
+							"The Wedding Record",
+							"Ghana"
+						],
+						"lyric": "[title]"
+					}
+				]
+			},
 			"geometry": {
 				"type": "LineString",
 				"coordinates": [
@@ -70581,36 +70607,36 @@
 						0
 					]
 				]
-			},
-			"properties": {
-				"locationID": "rte005",
-				"Location/feature name (incl. historical names)": "Throgs Neck Bridge to Port Washington",
-				"COMPLETE": "FALSE",
-				"Geometry type": "line",
-				"Geography type": "route",
-				"Country": "USA",
-				"Region": "",
-				"State/Province": "New York",
-				"County": "",
-				"City": "New York - Port Washington",
-				"Neighborhood (incl. boroughs)": "",
-				"Street address": "",
-				"Notes": "",
-				"Source": "route on google maps",
-				"songs": [
-					{
-						"title": "Going to Port Washington",
-						"album": "The Wedding Record",
-						"albums": [
-							"The Wedding Record"
-						],
-						"lyric": "[title]"
-					}
-				]
 			}
 		},
 		{
 			"type": "Feature",
+			"properties": {
+				"locationID": "rte006",
+				"Location/feature name (incl. historical names)": "Toyahvale to Midland",
+				"Geometry type": "line",
+				"Geography type": "route",
+				"Country": "USA",
+				"Region": "",
+				"State/Province": "New Mexico / Texas",
+				"County": "",
+				"City": "Toyahvale - switch to 285 in Pecos - head to Red Bluff - drive up to New Mexico - take first exit to 128 - Midland",
+				"Neighborhood (incl. boroughs)": "",
+				"Street address": "",
+				"Notes": "https://www.reddit.com/r/themountaingoats/comments/1osn2e/map_outlining_the_route_of_the_main_character_in/",
+				"Source": "",
+				"songs": [
+					{
+						"title": "Jeff Davis County Blues",
+						"album": "All Hail West Texas",
+						"albums": [
+							"All Hail West Texas",
+							"All Hail West Texas (2013 re-issue)"
+						],
+						"lyric": "[see entire song]"
+					}
+				]
+			},
 			"geometry": {
 				"type": "LineString",
 				"coordinates": [
@@ -89309,32 +89335,6 @@
 						31.99958,
 						0
 					]
-				]
-			},
-			"properties": {
-				"locationID": "rte006",
-				"Location/feature name (incl. historical names)": "Toyahvale to Midland",
-				"COMPLETE": "FALSE",
-				"Geometry type": "line",
-				"Geography type": "route",
-				"Country": "USA",
-				"Region": "",
-				"State/Province": "New Mexico / Texas",
-				"County": "",
-				"City": "Toyahvale - switch to 285 in Pecos - head to Red Bluff - drive up to New Mexico - take first exit to 128 - Midland",
-				"Neighborhood (incl. boroughs)": "",
-				"Street address": "",
-				"Notes": "https://www.reddit.com/r/themountaingoats/comments/1osn2e/map_outlining_the_route_of_the_main_character_in/",
-				"Source": "",
-				"songs": [
-					{
-						"title": "Jeff Davis County Blues",
-						"album": "All Hail West Texas",
-						"albums": [
-							"All Hail West Texas"
-						],
-						"lyric": "[see entire song]"
-					}
 				]
 			}
 		}

@@ -3,17 +3,9 @@
 	"features": [
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					12.486944,
-					41.888333
-				]
-			},
 			"properties": {
 				"locationID": "npt001",
 				"Location/feature name (incl. historical names)": "Palatine Hill",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "feature",
 				"Country": "Italy",
@@ -30,26 +22,26 @@
 						"title": "Up the Wolves",
 						"album": "The Sunset Tree",
 						"albums": [
-							"The Sunset Tree"
+							"The Sunset Tree",
+							"The Jordan Lake Sessions: Volumes 1 and 2"
 						],
 						"lyric": "\"Our mother has been absent / Ever since we founded Rome / But there's gonna be a party / When the wolf comes home\""
 					}
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					12.48694,
+					41.88833
 				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					1.725199,
-					44.987241
-				]
-			},
 			"properties": {
 				"locationID": "npt002",
 				"Location/feature name (incl. historical names)": "La Chapelle-aux-Saints cave",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "feature",
 				"Country": "France",
@@ -71,21 +63,20 @@
 						"lyric": "[title]"
 					}
 				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					1.7252,
+					44.98724
+				]
 			}
 		},
 		{
 			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					35.3692844587276,
-					-2.96602373453159
-				]
-			},
 			"properties": {
 				"locationID": "npt003",
 				"Location/feature name (incl. historical names)": "Olduvai Gorge",
-				"COMPLETE": "FALSE",
 				"Geometry type": "point",
 				"Geography type": "feature",
 				"Country": "Tanzania",
@@ -106,6 +97,13 @@
 						],
 						"lyric": "\"And then the gras grows up to cover up / The firepit and the forge / Half a world away from the Olduvai Gorge\""
 					}
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					35.36928,
+					-2.96602
 				]
 			}
 		}
