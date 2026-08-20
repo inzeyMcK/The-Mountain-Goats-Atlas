@@ -3949,6 +3949,39 @@
 					38.9582
 				]
 			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"locationID": "cty107",
+				"Location/feature name (incl. historical names)": "Muscle Shoals",
+				"Geometry type": "point",
+				"Geography type": "city",
+				"Country": "USA",
+				"Region": "",
+				"State/Province": "Alabama",
+				"County": "",
+				"City": "Muscle Shoals",
+				"Neighborhood (incl. boroughs)": "",
+				"Street address": "",
+				"Notes": "",
+				"Source": "",
+				"songs": [
+					{
+						"title": " Pennsylvania Dutch Treat ",
+						"album": "",
+						"albums": [],
+						"lyric": "Brought in the old furnishings from Muscle Shoals"
+					}
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-87.63611,
+					34.75833
+				]
+			}
 		}
 	]
 }
