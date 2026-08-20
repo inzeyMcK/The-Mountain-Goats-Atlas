@@ -1,0 +1,963 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"locationID": "adr001",
+				"Location/feature name (incl. historical names)": "Temple of Isis at Menouthis",
+				"Geometry type": "point",
+				"Geography type": "address",
+				"Country": "Egypt",
+				"Region": "",
+				"State/Province": "",
+				"County": "",
+				"City": "",
+				"Neighborhood (incl. boroughs)": "",
+				"Street address": "",
+				"Notes": "",
+				"Source": "",
+				"songs": [
+					{
+						"title": "Their Gods Do Not Have Surgeons",
+						"album": "Songs for Pierre Chuvin",
+						"albums": [
+							"Songs for Pierre Chuvin"
+						],
+						"lyric": "\"And restore the temple of Isis at Memphis\""
+					}
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					30.10054,
+					31.30418
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"locationID": "adr002",
+				"Location/feature name (incl. historical names)": "Ontario Motor Speedway",
+				"Geometry type": "point",
+				"Geography type": "address",
+				"Country": "USA",
+				"Region": "",
+				"State/Province": "California",
+				"County": "",
+				"City": "Ontario",
+				"Neighborhood (incl. boroughs)": "",
+				"Street address": "915 N Center Ave",
+				"Notes": "",
+				"Source": "https://datahub.io/core/geo-countries#resource-countries",
+				"songs": [
+					{
+						"title": "California Jam",
+						"album": "Marsh Witch Visions EP",
+						"albums": [
+							"Marsh Witch Visions EP"
+						],
+						"lyric": "\"Helicopter in, from Los Angeles / Land in Ontario, guys with cameras\""
+					}
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-117.58311,
+					34.07437
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"locationID": "adr003",
+				"Location/feature name (incl. historical names)": "retail SLUT",
+				"Geometry type": "point",
+				"Geography type": "address",
+				"Country": "USA",
+				"Region": "",
+				"State/Province": "California",
+				"County": "",
+				"City": "Los Angeles",
+				"Neighborhood (incl. boroughs)": "",
+				"Street address": "7308 Melrose Ave",
+				"Notes": "",
+				"Source": "",
+				"songs": [
+					{
+						"title": "Paid in Cocaine",
+						"album": "Goths",
+						"albums": [
+							"Goths"
+						],
+						"lyric": "\"Dark paisley from Retail Slut\""
+					}
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-118.34897,
+					34.08346
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"locationID": "adr004",
+				"Location/feature name (incl. historical names)": "Travelodge",
+				"Geometry type": "point",
+				"Geography type": "address",
+				"Country": "USA",
+				"Region": "",
+				"State/Province": "California",
+				"County": "",
+				"City": "Pomona",
+				"Neighborhood (incl. boroughs)": "",
+				"Street address": "130 E Holt Ave",
+				"Notes": "",
+				"Source": "",
+				"songs": [
+					{
+						"title": "Palmcorder Yajna",
+						"album": "Palmcorder Yajna EP",
+						"albums": [
+							"Palmcorder Yajna EP",
+							"We Shall All Be Healed"
+						],
+						"lyric": "\"Holt Boulevard / Between Garey and White / Hooked up with some friends at the Travelodge / Set ourselves up for the night\""
+					}
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-117.74953,
+					34.06232
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"locationID": "adr005",
+				"Location/feature name (incl. historical names)": "Fender's Ballroom",
+				"Geometry type": "point",
+				"Geography type": "address",
+				"Country": "USA",
+				"Region": "",
+				"State/Province": "California",
+				"County": "",
+				"City": "Long Beach",
+				"Neighborhood (incl. boroughs)": "",
+				"Street address": "521 E 1st St",
+				"Notes": "",
+				"Source": "https://datahub.io/core/geo-countries#resource-countries",
+				"songs": [
+					{
+						"title": "Paid in Cocaine",
+						"album": "Goths",
+						"albums": [
+							"Goths"
+						],
+						"lyric": "\"Master tpae from the show we did at Fender's back in '85\""
+					}
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-118.18586,
+					33.7684
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"locationID": "adr006",
+				"Location/feature name (incl. historical names)": "Hollywood Forever Cemetery",
+				"Geometry type": "point",
+				"Geography type": "address",
+				"Country": "USA",
+				"Region": "",
+				"State/Province": "California",
+				"County": "",
+				"City": "Los Angeles",
+				"Neighborhood (incl. boroughs)": "",
+				"Street address": "6000 Santa Monica Blvd",
+				"Notes": "",
+				"Source": "",
+				"songs": [
+					{
+						"title": "Shadow Song",
+						"album": "The Coroner's Gambit",
+						"albums": [
+							"The Coroner's Gambit"
+						],
+						"lyric": "N/A (but \"If you get there before me, will you light us a fire?\""
+					}
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-118.31908,
+					34.08906
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"locationID": "adr007",
+				"Location/feature name (incl. historical names)": "Batcave",
+				"Geometry type": "point",
+				"Geography type": "address",
+				"Country": "England",
+				"Region": "",
+				"State/Province": "",
+				"County": "",
+				"City": "London",
+				"Neighborhood (incl. boroughs)": "",
+				"Street address": "4 Meard St",
+				"Notes": "",
+				"Source": "",
+				"songs": [
+					{
+						"title": "Rain in Soho",
+						"album": "Goths",
+						"albums": [
+							"Goths",
+							"Marsh Witch Visions"
+						],
+						"lyric": "\"The river goes where the water flows / But no one knows when the Batcave closed\""
+					}
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-0.13288,
+					51.51353
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"locationID": "adr008",
+				"Location/feature name (incl. historical names)": "Kola Superdeep Borehole",
+				"Geometry type": "point",
+				"Geography type": "address",
+				"Country": "Russia",
+				"Region": "",
+				"State/Province": "",
+				"County": "",
+				"City": "",
+				"Neighborhood (incl. boroughs)": "",
+				"Street address": "",
+				"Notes": "",
+				"Source": "https://datahub.io/core/geo-countries#resource-countries",
+				"songs": [
+					{
+						"title": "The Destruction of the Kola Superdeep Borehole Tower",
+						"album": "Dark in Here",
+						"albums": [
+							"Dark in Here"
+						],
+						"lyric": "[title]"
+					}
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					30.61105,
+					69.39587
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"locationID": "adr009",
+				"Location/feature name (incl. historical names)": "Pico Blvd & Crenshaw Blvd",
+				"Geometry type": "point",
+				"Geography type": "address",
+				"Country": "USA",
+				"Region": "",
+				"State/Province": "California",
+				"County": "",
+				"City": "",
+				"Neighborhood (incl. boroughs)": "",
+				"Street address": "Pico Blvd & Crenshaw Blvd",
+				"Notes": "",
+				"Source": "",
+				"songs": [
+					{
+						"title": "Design Your Own Container Garden",
+						"album": "See America Right (single)",
+						"albums": [
+							"See America Right (single)"
+						],
+						"lyric": "\"I took the highway, went out to Pico-Crenshaw\""
+					}
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-118.32929,
+					34.04803
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"locationID": "adr010",
+				"Location/feature name (incl. historical names)": "Tollund",
+				"Geometry type": "point",
+				"Geography type": "address",
+				"Country": "Denmark",
+				"Region": "",
+				"State/Province": "",
+				"County": "",
+				"City": "Silkeborg",
+				"Neighborhood (incl. boroughs)": "",
+				"Street address": "",
+				"Notes": "",
+				"Source": "",
+				"songs": [
+					{
+						"title": "Tollund Man",
+						"album": "Sweden",
+						"albums": [
+							"Sweden"
+						],
+						"lyric": "[title]"
+					}
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					9.41333,
+					56.15095
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"locationID": "adr011",
+				"Location/feature name (incl. historical names)": "Dealey Plaza",
+				"Geometry type": "point",
+				"Geography type": "address",
+				"Country": "USA",
+				"Region": "",
+				"State/Province": "Texas",
+				"County": "",
+				"City": "Dallas",
+				"Neighborhood (incl. boroughs)": "",
+				"Street address": "",
+				"Notes": "",
+				"Source": "https://datahub.io/core/geo-countries#resource-countries",
+				"songs": [
+					{
+						"title": "Blues in Dallas",
+						"album": "All Hail West Texas",
+						"albums": [
+							"All Hail West Texas",
+							"All Hail West Texas (2013 re-issue)"
+						],
+						"lyric": "\"Down in Dealey Plaza, the tourists mill about\""
+					}
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-96.80861,
+					32.77861
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"locationID": "adr012",
+				"Location/feature name (incl. historical names)": "Dallas/Fort Worth Airport",
+				"Geometry type": "point",
+				"Geography type": "address",
+				"Country": "USA",
+				"Region": "",
+				"State/Province": "Texas",
+				"County": "",
+				"City": "",
+				"Neighborhood (incl. boroughs)": "",
+				"Street address": "2400 Aviation Dr, DFW Airport",
+				"Notes": "",
+				"Source": "",
+				"songs": [
+					{
+						"title": "Color in Your Cheeks",
+						"album": "All Hail West Texas",
+						"albums": [
+							"All Hail West Texas",
+							"All Hail West Texas (2013 re-issue)"
+						],
+						"lyric": "\"She came in on the red-eye to Dallas-Fort Worth\""
+					}
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-97.03806,
+					32.89694
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"locationID": "adr013",
+				"Location/feature name (incl. historical names)": "King of Prussia Mall",
+				"Geometry type": "point",
+				"Geography type": "address",
+				"Country": "USA",
+				"Region": "",
+				"State/Province": "Pennsylvania",
+				"County": "",
+				"City": "King of Prussia",
+				"Neighborhood (incl. boroughs)": "",
+				"Street address": "160 N Gulph Rd",
+				"Notes": "",
+				"Source": "",
+				"songs": [
+					{
+						"title": "Woke Up New",
+						"album": "Get Lonely",
+						"albums": [
+							"Get Lonely",
+							"The Jordan Lake Sessions: Volumes 3 and 4"
+						],
+						"lyric": "[was inspiration for the line about feeling lost in a mall]"
+					}
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.39028,
+					40.08833
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"locationID": "adr014",
+				"Location/feature name (incl. historical names)": "Curtis Institute",
+				"Geometry type": "point",
+				"Geography type": "address",
+				"Country": "USA",
+				"Region": "",
+				"State/Province": "Pennsylvania",
+				"County": "",
+				"City": "Philadelphia",
+				"Neighborhood (incl. boroughs)": "",
+				"Street address": "1726 Locust St",
+				"Notes": "",
+				"Source": "https://datahub.io/core/geo-countries#resource-countries",
+				"songs": [
+					{
+						"title": "The Great Gold Sheep",
+						"album": "Getting Into Knives",
+						"albums": [
+							"Getting Into Knives"
+						],
+						"lyric": "\"Choirs from the Curtis Institute / Singing me to sleep\""
+					}
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.1706,
+					39.9488
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"locationID": "adr015",
+				"Location/feature name (incl. historical names)": "Grand Army Plaza",
+				"Geometry type": "point",
+				"Geography type": "address",
+				"Country": "USA",
+				"Region": "",
+				"State/Province": "New York",
+				"County": "",
+				"City": "New York",
+				"Neighborhood (incl. boroughs)": "",
+				"Street address": "Plaza Street West, St. Johns Place, & Flatbush Avenue",
+				"Notes": "",
+				"Source": "",
+				"songs": [
+					{
+						"title": "The Mess Inside",
+						"album": "All Hail West Texas",
+						"albums": [
+							"All Hail West Texas",
+							"All Hail West Texas (2013 re-issue)"
+						],
+						"lyric": "\"We went to New York City in September / Took the train out of Manhattan to the Grand Army stop\""
+					}
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.97052,
+					40.67458
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"locationID": "adr016",
+				"Location/feature name (incl. historical names)": "Lloyd Center",
+				"Geometry type": "point",
+				"Geography type": "address",
+				"Country": "USA",
+				"Region": "",
+				"State/Province": "Oregon",
+				"County": "",
+				"City": "Portland",
+				"Neighborhood (incl. boroughs)": "",
+				"Street address": "2201 Lloyd Center",
+				"Notes": "",
+				"Source": "",
+				"songs": [
+					{
+						"title": "Standard Bitter Love Song #8",
+						"album": "Taking the Dative",
+						"albums": [
+							"Taking the Dative",
+							"Ghana"
+						],
+						"lyric": "\"I went down to Lloyd Center looking for you\""
+					}
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.65465,
+					45.53249
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"locationID": "adr017",
+				"Location/feature name (incl. historical names)": "Rainbow Bar and Grill",
+				"Geometry type": "point",
+				"Geography type": "address",
+				"Country": "USA",
+				"Region": "",
+				"State/Province": "California",
+				"County": "",
+				"City": "West Hollywood",
+				"Neighborhood (incl. boroughs)": "",
+				"Street address": "9015 Sunset Blvd",
+				"Notes": "",
+				"Source": "",
+				"songs": [
+					{
+						"title": "Rage of Travers",
+						"album": "Goths",
+						"albums": [
+							"Goths"
+						],
+						"lyric": "\"Close the balcony at the Rainbow / Because the promoter says so\""
+					}
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-118.38817,
+					34.09111
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"locationID": "adr018",
+				"Location/feature name (incl. historical names)": "Broadway and Van Cortland Park",
+				"Geometry type": "point",
+				"Geography type": "address",
+				"Country": "USA",
+				"Region": "",
+				"State/Province": "New York",
+				"County": "",
+				"City": "New York",
+				"Neighborhood (incl. boroughs)": "Bronx",
+				"Street address": "Broadway and, Van Cortlandt Park S",
+				"Notes": "",
+				"Source": "",
+				"songs": [
+					{
+						"title": "High Hawk Season",
+						"album": "All Eternals Deck",
+						"albums": [
+							"All Eternals Deck"
+						],
+						"lyric": "\"Surge forward from Van Cortland Park / like frightened sheep\""
+					}
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.89967,
+					40.88668
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"locationID": "adr019",
+				"Location/feature name (incl. historical names)": "Broadway Bridge, OR",
+				"Geometry type": "point",
+				"Geography type": "address",
+				"Country": "USA",
+				"Region": "",
+				"State/Province": "Oregon",
+				"County": "",
+				"City": "Portland",
+				"Neighborhood (incl. boroughs)": "",
+				"Street address": "",
+				"Notes": "",
+				"Source": "https://datahub.io/core/geo-countries#resource-countries",
+				"songs": [
+					{
+						"title": "Steal Smoked Fish",
+						"album": "Steal Smoked Fish EP",
+						"albums": [
+							"Steal Smoked Fish EP",
+							"Transcendental Youth Japanese release"
+						],
+						"lyric": "Across a different bridge today / Over the river and down Broadway"
+					}
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.67663,
+					45.5319
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"locationID": "adr020",
+				"Location/feature name (incl. historical names)": "Meskwaki Bingo Casino Hotel",
+				"Geometry type": "point",
+				"Geography type": "address",
+				"Country": "USA",
+				"Region": "",
+				"State/Province": "Iowa",
+				"County": "",
+				"City": "Tama",
+				"Neighborhood (incl. boroughs)": "",
+				"Street address": "1504 305th St",
+				"Notes": "",
+				"Source": "",
+				"songs": [
+					{
+						"title": "Waylon Jennings Live!",
+						"album": "In League With Dragons",
+						"albums": [
+							"In League With Dragons"
+						],
+						"lyric": "\"Drunk at the Meskwaki casino / Right where God intended me to be\""
+					}
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-92.66829,
+					41.99638
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"locationID": "adr021",
+				"Location/feature name (incl. historical names)": "Pomona Mall",
+				"Geometry type": "point",
+				"Geography type": "address",
+				"Country": "USA",
+				"Region": "",
+				"State/Province": "California",
+				"County": "",
+				"City": "Pomona",
+				"Neighborhood (incl. boroughs)": "",
+				"Street address": "2nd Street and Park Avenue",
+				"Notes": "",
+				"Source": "",
+				"songs": [
+					{
+						"title": "Estate Sale Sign",
+						"album": "All Eternals Deck",
+						"albums": [
+							"All Eternals Deck"
+						],
+						"lyric": "\"Stock shots stupid stock shots / From the Pomona mall / Set up like unloved icons gathering dust up on the wall\""
+					}
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-117.75453,
+					34.05772
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"locationID": "adr022",
+				"Location/feature name (incl. historical names)": "Burnside Bridge",
+				"Geometry type": "point",
+				"Geography type": "address",
+				"Country": "USA",
+				"Region": "",
+				"State/Province": "Oregon",
+				"County": "",
+				"City": "Portland",
+				"Neighborhood (incl. boroughs)": "",
+				"Street address": "",
+				"Notes": "",
+				"Source": "https://datahub.io/core/geo-countries#resource-countries",
+				"songs": [
+					{
+						"title": "Steal Smoked Fish",
+						"album": "Steal Smoked Fish EP",
+						"albums": [
+							"Steal Smoked Fish EP",
+							"Transcendental Youth Japanese release"
+						],
+						"lyric": "\"Across the Burnside bridge before / Anyone shot their movies there\""
+					}
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.66755,
+					45.52305
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"locationID": "adr023",
+				"Location/feature name (incl. historical names)": "AC Hotel by Marriott",
+				"Geometry type": "point",
+				"Geography type": "address",
+				"Country": "Jamaica",
+				"Region": "",
+				"State/Province": "",
+				"County": "",
+				"City": "Kingston",
+				"Neighborhood (incl. boroughs)": "",
+				"Street address": "38-42 Lady Musgrave Rd",
+				"Notes": "",
+				"Source": "https://datahub.io/core/geo-countries#resource-countries",
+				"songs": [
+					{
+						"title": "Have to Explode",
+						"album": "Tallahassee",
+						"albums": [
+							"Tallahassee",
+							"The Jordan Lake Sessions: Volumes 3 and 4"
+						],
+						"lyric": "\"Towels from the Ritz-Carlton hotel in Kingston Jamaica / I can still see the rust colored stains today\""
+					}
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-76.77769,
+					18.00867
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"locationID": "adr024",
+				"Location/feature name (incl. historical names)": "Lakeview Apartments",
+				"Geometry type": "point",
+				"Geography type": "address",
+				"Country": "USA",
+				"Region": "",
+				"State/Province": "Oregon",
+				"County": "",
+				"City": "Portland",
+				"Neighborhood (incl. boroughs)": "",
+				"Street address": "12622 SW Barnes Rd",
+				"Notes": "",
+				"Source": "",
+				"songs": [
+					{
+						"title": "Lakeside View Apartments Suite",
+						"album": "Transcendental Youth",
+						"albums": [
+							"Transcendental Youth",
+							"The Jordan Lake Sessions: Volumes 1 and 2"
+						],
+						"lyric": "\"Downtown north past the airport / A dream in switchgrass and concrete / Three gray floors of smoky windows / Facing the street\""
+					}
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.80353,
+					45.51975
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"locationID": "adr025",
+				"Location/feature name (incl. historical names)": "Durham Cemetery",
+				"Geometry type": "point",
+				"Geography type": "address",
+				"Country": "USA",
+				"Region": "",
+				"State/Province": "Illinois",
+				"County": "",
+				"City": "Mulberry Grove",
+				"Neighborhood (incl. boroughs)": "",
+				"Street address": "",
+				"Notes": "",
+				"Source": "https://datahub.io/core/geo-countries#resource-countries",
+				"songs": [
+					{
+						"title": "Crows",
+						"album": "Devil in the Shortwave",
+						"albums": [
+							"Devil in the Shortwave"
+						],
+						"lyric": "\"Well I went way out North Carolina Way / To that old graveyard where my great grandmother lay\""
+					}
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-89.26377,
+					38.89724
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"locationID": "adr026",
+				"Location/feature name (incl. historical names)": "Broadway Bridge, OH",
+				"Geometry type": "point",
+				"Geography type": "address",
+				"Country": "USA",
+				"Region": "",
+				"State/Province": "Ohio",
+				"County": "",
+				"City": "Greenville",
+				"Neighborhood (incl. boroughs)": "",
+				"Street address": "",
+				"Notes": "",
+				"Source": "https://datahub.io/core/geo-countries#resource-countries",
+				"songs": [
+					{
+						"title": "Third Snow Song",
+						"album": "Philyra",
+						"albums": [
+							"Philyra",
+							"Protein Source of the Future\u2026Now!"
+						],
+						"lyric": "\"In January, I took the short walk / Down to the Broadway Bridge\""
+					}
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-84.63528,
+					40.10417
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"locationID": "adr027",
+				"Location/feature name (incl. historical names)": "Pimlico Race Course",
+				"Geometry type": "point",
+				"Geography type": "address",
+				"Country": "USA",
+				"Region": "",
+				"State/Province": "Maryland",
+				"County": "",
+				"City": "Baltimore",
+				"Neighborhood (incl. boroughs)": "",
+				"Street address": "5201 Park Heights Ave",
+				"Notes": "",
+				"Source": "",
+				"songs": [
+					{
+						"title": "Shelved",
+						"album": "Goths",
+						"albums": [
+							"Goths",
+							"The Jordan Lake Sessions: Volumes 3 and 4"
+						],
+						"lyric": "\"I wanna flash my pastel colors by the rail / On a windy day at Pimlico\""
+					}
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-76.67316,
+					39.35342
+				]
+			}
+		}
+	]
+}

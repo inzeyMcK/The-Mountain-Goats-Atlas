@@ -290,9 +290,9 @@
 				"Location/feature name (incl. historical names)": "Pico Blvd & Crenshaw Blvd",
 				"Geometry type": "point",
 				"Geography type": "address",
-				"Country": "",
+				"Country": "USA",
 				"Region": "",
-				"State/Province": "",
+				"State/Province": "California",
 				"County": "",
 				"City": "",
 				"Neighborhood (incl. boroughs)": "",
@@ -930,7 +930,7 @@
 				"Location/feature name (incl. historical names)": "Pimlico Race Course",
 				"Geometry type": "point",
 				"Geography type": "address",
-				"Country": "United States",
+				"Country": "USA",
 				"Region": "",
 				"State/Province": "Maryland",
 				"County": "",
@@ -956,6 +956,41 @@
 				"coordinates": [
 					-76.67316,
 					39.35342
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"locationID": "adr028",
+				"Location/feature name (incl. historical names)": "Precious Moments Chapel",
+				"Geometry type": "point",
+				"Geography type": "address",
+				"Country": "USA",
+				"Region": "",
+				"State/Province": "Missouri",
+				"County": "",
+				"City": "Carthage",
+				"Neighborhood (incl. boroughs)": "",
+				"Street address": "4321 S Chapel Rd",
+				"Notes": "",
+				"Source": "",
+				"songs": [
+					{
+						"title": "Psalms 40:2",
+						"album": "The Life of the World to Come",
+						"albums": [
+							"The Life of the World to Come"
+						],
+						"lyric": ""
+					}
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-94.345009,
+					37.11046
 				]
 			}
 		}
