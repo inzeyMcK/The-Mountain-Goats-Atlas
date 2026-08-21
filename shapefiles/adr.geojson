@@ -193,16 +193,7 @@
 				"Street address": "6000 Santa Monica Blvd",
 				"Notes": "",
 				"Source": "",
-				"songs": [
-					{
-						"title": "Shadow Song",
-						"album": "The Coroner's Gambit",
-						"albums": [
-							"The Coroner's Gambit"
-						],
-						"lyric": "N/A (but \"If you get there before me, will you light us a fire?\""
-					}
-				]
+				"songs": []
 			},
 			"geometry": {
 				"type": "Point",
@@ -989,8 +980,179 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-94.345009,
+					-94.34501,
 					37.11046
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"locationID": "adr029",
+				"Location/feature name (incl. historical names)": "California Polytechnic State University",
+				"Geometry type": "point",
+				"Geography type": "address",
+				"Country": "USA",
+				"Region": "",
+				"State/Province": "California",
+				"County": "",
+				"City": "San Luis Obispo",
+				"Neighborhood (incl. boroughs)": "",
+				"Street address": "1 Grand Ave",
+				"Notes": "",
+				"Source": "",
+				"songs": [
+					{
+						"title": " Abandoning My Father Talking Blues ",
+						"album": "",
+						"albums": [],
+						"lyric": "\"My daddy taught English at Cal Poly San Luis Obispo\""
+					}
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-120.66248,
+					35.30519
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"locationID": "adr030",
+				"Location/feature name (incl. historical names)": "Superdome",
+				"Geometry type": "point",
+				"Geography type": "address",
+				"Country": "USA",
+				"Region": "",
+				"State/Province": "Louisiana",
+				"County": "",
+				"City": "New Orleans",
+				"Neighborhood (incl. boroughs)": "",
+				"Street address": "1500 Sugar Bowl Drive",
+				"Notes": "",
+				"Source": "",
+				"songs": [
+					{
+						"title": "Bring Our Curses Home",
+						"album": "Black Pear Tree EP",
+						"albums": [
+							"Black Pear Tree EP"
+						],
+						"lyric": "\"Grab hold of my hammer / Try to bring down the Superdome\""
+					}
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-90.08111,
+					29.95083
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"locationID": "adr031",
+				"Location/feature name (incl. historical names)": "Carnegie Hall",
+				"Geometry type": "point",
+				"Geography type": "address",
+				"Country": "USA",
+				"Region": "",
+				"State/Province": "New York",
+				"County": "",
+				"City": "New York",
+				"Neighborhood (incl. boroughs)": "",
+				"Street address": "881 Seventh Avenue",
+				"Notes": "",
+				"Source": "",
+				"songs": [
+					{
+						"title": " Annie Haslam Imperial Phase ",
+						"album": "Days",
+						"albums": [
+							"Days"
+						],
+						"lyric": "\"Maybe you don't recall / But Renaissance played at Carnegie Hall\""
+					}
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.98,
+					40.765
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"locationID": "adr032",
+				"Location/feature name (incl. historical names)": "Holy Cross Cemetery & Mortuary",
+				"Geometry type": "point",
+				"Geography type": "address",
+				"Country": "USA",
+				"Region": "",
+				"State/Province": "California",
+				"County": "",
+				"City": "Culver City",
+				"Neighborhood (incl. boroughs)": "",
+				"Street address": "5835 W Slauson Ave",
+				"Notes": "",
+				"Source": "",
+				"songs": [
+					{
+						"title": " Crying on Eddie Nash's Grave ",
+						"album": "Days",
+						"albums": [
+							"Days"
+						],
+						"lyric": "\"Crying on Eddie Nash's grave\""
+					}
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-118.38577,
+					33.99014
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"locationID": "adr033",
+				"Location/feature name (incl. historical names)": "Cable Airport",
+				"Geometry type": "point",
+				"Geography type": "address",
+				"Country": "USA",
+				"Region": "",
+				"State/Province": "California",
+				"County": "",
+				"City": "Upland",
+				"Neighborhood (incl. boroughs)": "",
+				"Street address": "",
+				"Notes": "",
+				"Source": "",
+				"songs": [
+					{
+						"title": " Duane Allman Slept Here ",
+						"album": "",
+						"albums": [],
+						"lyric": "\"I got an idea to head down to Cable airport / Maybe hijack a little two seat plane \""
+					}
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-117.6875,
+					34.11167
 				]
 			}
 		}

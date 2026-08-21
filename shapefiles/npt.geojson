@@ -106,6 +106,39 @@
 					-2.96602
 				]
 			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"locationID": "npt004",
+				"Location/feature name (incl. historical names)": "Las Flores Canyon",
+				"Geometry type": "point",
+				"Geography type": "feature",
+				"Country": "USA",
+				"Region": "",
+				"State/Province": "California",
+				"County": "",
+				"City": "Malibu",
+				"Neighborhood (incl. boroughs)": "",
+				"Street address": "",
+				"Notes": "",
+				"Source": "",
+				"songs": [
+					{
+						"title": " Casetino's Nursery ",
+						"album": "",
+						"albums": [],
+						"lyric": "\"And the rain tore through the streets / Tore down Los Flores Canyon again\""
+					}
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					34.03785,
+					-118.63551
+				]
+			}
 		}
 	]
 }

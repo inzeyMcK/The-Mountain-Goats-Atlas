@@ -765,6 +765,14 @@
 							"Goths"
 						],
 						"lyric": "\"Ridin' Lotus Sevens through the London Streets one day\""
+					},
+					{
+						"title": "Abandoned Flesh",
+						"album": "Goths",
+						"albums": [
+							"Goths"
+						],
+						"lyric": "\""
 					}
 				]
 			},
@@ -1951,6 +1959,14 @@
 							"Jenny from Thebes"
 						],
 						"lyric": "\"If you find yourself in Portland / Ask for me\""
+					},
+					{
+						"title": "Bring Our Curses Home",
+						"album": "Black Pear Tree EP",
+						"albums": [
+							"Black Pear Tree EP"
+						],
+						"lyric": "\"That night someone brought some shoes in / From Los Angeles or Portland I forget\""
 					}
 				]
 			},
@@ -2269,6 +2285,14 @@
 							"Beat the Champ"
 						],
 						"lyric": "\"Sit on my porch in Houston / Let the good times dance across my mind\""
+					},
+					{
+						"title": "Bring Our Curses Home",
+						"album": "Black Pear Tree EP",
+						"albums": [
+							"Black Pear Tree EP"
+						],
+						"lyric": "\"Headed for Houston out of town\""
 					}
 				]
 			},
@@ -3142,6 +3166,12 @@
 							"Goths"
 						],
 						"lyric": "\"I heard they had a problem with some skinheads / At a show in a machine shop in Pomona\""
+					},
+					{
+						"title": " All Devils Here Now",
+						"album": "",
+						"albums": [],
+						"lyric": "\"Pomona's big as all outdoors and we / We are your neighbors\""
 					}
 				]
 			},
@@ -3466,6 +3496,14 @@
 							"Marsh Witch Visions EP"
 						],
 						"lyric": "\"Insane in a studio in Los Angeles / Rudderless and hungry and high\""
+					},
+					{
+						"title": "Bring Our Curses Home",
+						"album": "Black Pear Tree EP",
+						"albums": [
+							"Black Pear Tree EP"
+						],
+						"lyric": "\"That night someone brought some shoes in / From Los Angeles or Portland I forget\""
 					}
 				]
 			},
@@ -3988,6 +4026,144 @@
 				"coordinates": [
 					-87.63611,
 					34.75833
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"locationID": "cty109",
+				"Location/feature name (incl. historical names)": "Rialto",
+				"Geometry type": "point",
+				"Geography type": "city",
+				"Country": "USA",
+				"Region": "",
+				"State/Province": "California",
+				"County": "",
+				"City": "Rialto",
+				"Neighborhood (incl. boroughs)": "",
+				"Street address": "",
+				"Notes": "",
+				"Source": "",
+				"songs": [
+					{
+						"title": "Deserters",
+						"album": "",
+						"albums": [],
+						"lyric": "\"I've drawn up a map of Rialto\""
+					}
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-117.3825,
+					34.11139
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"locationID": "cty110",
+				"Location/feature name (incl. historical names)": "Rome",
+				"Geometry type": "point",
+				"Geography type": "city",
+				"Country": "USA",
+				"Region": "",
+				"State/Province": "New York",
+				"County": "",
+				"City": "Rome",
+				"Neighborhood (incl. boroughs)": "",
+				"Street address": "",
+				"Notes": "",
+				"Source": "",
+				"songs": [
+					{
+						"title": "Woodstock",
+						"album": "Days",
+						"albums": [
+							"Days"
+						],
+						"lyric": "\"Not the 60's Woodstock but the one much later on\""
+					}
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.46333,
+					43.21944
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"locationID": "cty111",
+				"Location/feature name (incl. historical names)": "Lincoln",
+				"Geometry type": "point",
+				"Geography type": "city",
+				"Country": "USA",
+				"Region": "",
+				"State/Province": "Nebraska",
+				"County": "",
+				"City": "Lincoln",
+				"Neighborhood (incl. boroughs)": "",
+				"Street address": "",
+				"Notes": "",
+				"Source": "",
+				"songs": [
+					{
+						"title": " Hidden Majesty of Later Venom Albums ",
+						"album": "Days",
+						"albums": [
+							"Days"
+						],
+						"lyric": "\"Ride from Lincoln, Nebraska to the Canada border\""
+					}
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-96.67472,
+					40.81028
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"locationID": "cty112",
+				"Location/feature name (incl. historical names)": "Newcastle upon Tyne",
+				"Geometry type": "point",
+				"Geography type": "city",
+				"Country": "England",
+				"Region": "",
+				"State/Province": "",
+				"County": "",
+				"City": "Newcastle upon Tyne",
+				"Neighborhood (incl. boroughs)": "",
+				"Street address": "",
+				"Notes": "",
+				"Source": "",
+				"songs": [
+					{
+						"title": " Hidden Majesty of Later Venom Albums ",
+						"album": "Days",
+						"albums": [
+							"Days"
+						],
+						"lyric": "\"Just a little more bass in the wedge, if it's not too much hassle / Thank you for coming -- we're from Newcastle\""
+					}
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-1.6131,
+					54.9738
 				]
 			}
 		}
